@@ -14,7 +14,7 @@ import time
 start_time = time.time()
 
 #getting data
-df = pd.read_csv('shot log HOU.csv', parse_dates = True)
+df = pd.read_csv('datasets/shot log HOU.csv', parse_dates = True)
 
 curr_player = "James Harden"
 
