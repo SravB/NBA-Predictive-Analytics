@@ -1,0 +1,1231 @@
+#Date/Time of Update: 2017-05-02 3:46:42 PM,#Game Date,#Game Time,#Away Team ID,#Away Team Abbr.,#Away Team City,#Away Team Name,#Home Team ID,#Home Team Abbr.,#Home Team City,#Home Team Name,#Location
+,2016-10-25,7:30PM,83,NYK,New York,Knicks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-10-25,10:00PM,98,UTA,Utah,Jazz,97,POR,Portland,Trail Blazers,Moda Center
+,2016-10-25,10:30PM,106,SAS,San Antonio,Spurs,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-10-26,7:00PM,92,MIA,Miami,Heat,95,ORL,Orlando,Magic,Amway Center
+,2016-10-26,7:00PM,108,DAL,Dallas,Mavericks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-10-26,7:30PM,84,BRO,Brooklyn,Nets,82,BOS,Boston,Celtics,TD Garden
+,2016-10-26,7:30PM,88,DET,Detroit,Pistons,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-10-26,8:00PM,93,CHA,Charlotte,Hornets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-10-26,8:00PM,100,MIN,Minnesota,Timberwolves,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-10-26,8:00PM,99,DEN,Denver,Nuggets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-10-26,8:00PM,96,OKL,Oklahoma City,Thunder,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-10-26,10:00PM,103,SAC,Sacramento,Kings,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-10-26,10:30PM,109,HOU,Houston,Rockets,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-10-27,7:30PM,94,WAS,Washington,Wizards,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-10-27,8:00PM,82,BOS,Boston,Celtics,89,CHI,Chicago,Bulls,United Center
+,2016-10-27,10:30PM,106,SAS,San Antonio,Spurs,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-10-27,10:30PM,102,LAC,Los Angeles,Clippers,97,POR,Portland,Trail Blazers,Moda Center
+,2016-10-28,7:00PM,86,CLE,Cleveland,Cavaliers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-10-28,7:30PM,87,IND,Indiana,Pacers,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-10-28,7:30PM,95,ORL,Orlando,Magic,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-10-28,8:00PM,104,PHX,Phoenix,Suns,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-10-28,8:00PM,93,CHA,Charlotte,Hornets,92,MIA,Miami,Heat,American Airlines Arena
+,2016-10-28,8:30PM,109,HOU,Houston,Rockets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-10-28,9:00PM,105,LAL,Los Angeles,Lakers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-10-28,9:30PM,101,GSW,Golden State,Warriors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-10-29,12:30PM,91,ATL,Atlanta,Hawks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-10-29,7:00PM,82,BOS,Boston,Celtics,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-10-29,7:30PM,107,MEM,Memphis,Grizzlies,83,NYK,New York,Knicks,Madison Square Garden
+,2016-10-29,7:30PM,95,ORL,Orlando,Magic,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-10-29,8:00PM,87,IND,Indiana,Pacers,89,CHI,Chicago,Bulls,United Center
+,2016-10-29,8:00PM,84,BRO,Brooklyn,Nets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-10-29,8:00PM,110,NOP,New Orleans,Pelicans,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-10-29,9:00PM,97,POR,Portland,Trail Blazers,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-10-29,10:30PM,100,MIN,Minnesota,Timberwolves,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-10-30,4:30PM,98,UTA,Utah,Jazz,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-10-30,6:00PM,101,GSW,Golden State,Warriors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-10-30,6:00PM,106,SAS,San Antonio,Spurs,92,MIA,Miami,Heat,American Airlines Arena
+,2016-10-30,6:00PM,90,MIL,Milwaukee,Bucks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-10-30,7:00PM,105,LAL,Los Angeles,Lakers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-10-30,8:00PM,94,WAS,Washington,Wizards,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-10-30,8:00PM,108,DAL,Dallas,Mavericks,109,HOU,Houston,Rockets,Toyota Center
+,2016-10-31,7:30PM,99,DEN,Denver,Nuggets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-10-31,7:30PM,89,CHI,Chicago,Bulls,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-10-31,7:30PM,103,SAC,Sacramento,Kings,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-10-31,10:30PM,104,PHX,Phoenix,Suns,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-01,6:00PM,109,HOU,Houston,Rockets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-01,7:00PM,95,ORL,Orlando,Magic,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-01,7:00PM,105,LAL,Los Angeles,Lakers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-01,7:30PM,103,SAC,Sacramento,Kings,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-01,7:30PM,83,NYK,New York,Knicks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-01,8:00PM,90,MIL,Milwaukee,Bucks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-01,8:00PM,107,MEM,Memphis,Grizzlies,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-01,8:30PM,98,UTA,Utah,Jazz,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-01,10:00PM,101,GSW,Golden State,Warriors,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-02,7:00PM,81,TOR,Toronto,Raptors,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-02,7:00PM,85,PHI,Philadelphia,76ers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-02,7:30PM,88,DET,Detroit,Pistons,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-02,7:30PM,109,HOU,Houston,Rockets,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-02,7:30PM,105,LAL,Los Angeles,Lakers,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-02,8:00PM,110,NOP,New Orleans,Pelicans,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-02,8:00PM,89,CHI,Chicago,Bulls,82,BOS,Boston,Celtics,TD Garden
+,2016-11-02,9:00PM,108,DAL,Dallas,Mavericks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-02,10:00PM,97,POR,Portland,Trail Blazers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-02,10:30PM,96,OKL,Oklahoma City,Thunder,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-03,7:00PM,103,SAC,Sacramento,Kings,95,ORL,Orlando,Magic,Amway Center
+,2016-11-03,8:00PM,87,IND,Indiana,Pacers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-03,8:00PM,99,DEN,Denver,Nuggets,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-03,8:00PM,82,BOS,Boston,Celtics,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-03,10:30PM,96,OKL,Oklahoma City,Thunder,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-04,7:00PM,91,ATL,Atlanta,Hawks,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-04,7:30PM,92,MIA,Miami,Heat,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-04,7:30PM,93,CHA,Charlotte,Hornets,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-04,8:00PM,83,NYK,New York,Knicks,89,CHI,Chicago,Bulls,United Center
+,2016-11-04,8:00PM,102,LAC,Los Angeles,Clippers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-04,8:00PM,104,PHX,Phoenix,Suns,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-04,8:30PM,97,POR,Portland,Trail Blazers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-04,9:00PM,106,SAS,San Antonio,Spurs,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-04,10:30PM,101,GSW,Golden State,Warriors,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-05,6:00PM,100,MIN,Minnesota,Timberwolves,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-05,7:00PM,86,CLE,Cleveland,Cavaliers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-05,7:00PM,94,WAS,Washington,Wizards,95,ORL,Orlando,Magic,Amway Center
+,2016-11-05,7:00PM,99,DEN,Denver,Nuggets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-05,7:00PM,89,CHI,Chicago,Bulls,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-05,7:30PM,109,HOU,Houston,Rockets,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-05,8:00PM,103,SAC,Sacramento,Kings,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-05,8:30PM,102,LAC,Los Angeles,Clippers,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-06,12:00PM,98,UTA,Utah,Jazz,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-06,3:30PM,97,POR,Portland,Trail Blazers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-06,6:00PM,103,SAC,Sacramento,Kings,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-06,7:00PM,90,MIL,Milwaukee,Bucks,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-06,7:30PM,99,DEN,Denver,Nuggets,82,BOS,Boston,Celtics,TD Garden
+,2016-11-06,9:30PM,104,PHX,Phoenix,Suns,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-07,7:00PM,98,UTA,Utah,Jazz,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-07,7:00PM,109,HOU,Houston,Rockets,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-07,7:00PM,87,IND,Indiana,Pacers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-07,8:00PM,95,ORL,Orlando,Magic,89,CHI,Chicago,Bulls,United Center
+,2016-11-07,8:00PM,92,MIA,Miami,Heat,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-07,10:30PM,88,DET,Detroit,Pistons,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-07,10:30PM,110,NOP,New Orleans,Pelicans,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-08,7:00PM,91,ATL,Atlanta,Hawks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-08,7:30PM,100,MIN,Minnesota,Timberwolves,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-08,8:00PM,99,DEN,Denver,Nuggets,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-08,10:00PM,104,PHX,Phoenix,Suns,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-08,10:30PM,108,DAL,Dallas,Mavericks,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-08,10:30PM,110,NOP,New Orleans,Pelicans,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-09,7:00PM,84,BRO,Brooklyn,Nets,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-09,7:00PM,82,BOS,Boston,Celtics,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-09,7:00PM,98,UTA,Utah,Jazz,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-09,7:00PM,100,MIN,Minnesota,Timberwolves,95,ORL,Orlando,Magic,Amway Center
+,2016-11-09,7:00PM,85,PHI,Philadelphia,76ers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-09,7:30PM,89,CHI,Chicago,Bulls,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-09,8:00PM,81,TOR,Toronto,Raptors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-09,9:00PM,88,DET,Detroit,Pistons,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-09,9:30PM,109,HOU,Houston,Rockets,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-09,10:30PM,97,POR,Portland,Trail Blazers,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-09,10:30PM,108,DAL,Dallas,Mavericks,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-10,8:00PM,110,NOP,New Orleans,Pelicans,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-10,8:00PM,89,CHI,Chicago,Bulls,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-10,9:00PM,101,GSW,Golden State,Warriors,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-10,10:30PM,105,LAL,Los Angeles,Lakers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-11,7:00PM,87,IND,Indiana,Pacers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-11,7:00PM,86,CLE,Cleveland,Cavaliers,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-11,7:00PM,81,TOR,Toronto,Raptors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-11,7:00PM,98,UTA,Utah,Jazz,95,ORL,Orlando,Magic,Amway Center
+,2016-11-11,7:30PM,83,NYK,New York,Knicks,82,BOS,Boston,Celtics,TD Garden
+,2016-11-11,8:00PM,102,LAC,Los Angeles,Clippers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-11,8:30PM,88,DET,Detroit,Pistons,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-11,10:00PM,103,SAC,Sacramento,Kings,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-12,7:00PM,105,LAL,Los Angeles,Lakers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-12,7:00PM,82,BOS,Boston,Celtics,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-12,7:30PM,83,NYK,New York,Knicks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-12,7:30PM,85,PHI,Philadelphia,76ers,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-12,8:00PM,94,WAS,Washington,Wizards,89,CHI,Chicago,Bulls,United Center
+,2016-11-12,8:00PM,106,SAS,San Antonio,Spurs,109,HOU,Houston,Rockets,Toyota Center
+,2016-11-12,8:00PM,102,LAC,Los Angeles,Clippers,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-12,8:00PM,98,UTA,Utah,Jazz,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-12,8:30PM,107,MEM,Memphis,Grizzlies,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-12,9:00PM,88,DET,Detroit,Pistons,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-12,9:00PM,84,BRO,Brooklyn,Nets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-13,3:30PM,93,CHA,Charlotte,Hornets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-13,7:00PM,95,ORL,Orlando,Magic,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-13,7:00PM,105,LAL,Los Angeles,Lakers,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-13,8:00PM,104,PHX,Phoenix,Suns,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-13,9:00PM,99,DEN,Denver,Nuggets,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-14,7:00PM,95,ORL,Orlando,Magic,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-14,7:30PM,108,DAL,Dallas,Mavericks,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-14,7:30PM,96,OKL,Oklahoma City,Thunder,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-14,8:00PM,82,BOS,Boston,Celtics,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-14,8:00PM,85,PHI,Philadelphia,76ers,109,HOU,Houston,Rockets,Toyota Center
+,2016-11-14,8:30PM,92,MIA,Miami,Heat,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-14,9:00PM,107,MEM,Memphis,Grizzlies,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-14,10:30PM,84,BRO,Brooklyn,Nets,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-15,7:00PM,81,TOR,Toronto,Raptors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-15,7:30PM,91,ATL,Atlanta,Hawks,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-15,8:00PM,93,CHA,Charlotte,Hornets,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-15,10:00PM,89,CHI,Chicago,Bulls,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-15,10:30PM,84,BRO,Brooklyn,Nets,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-16,7:00PM,94,WAS,Washington,Wizards,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-16,7:00PM,110,NOP,New Orleans,Pelicans,95,ORL,Orlando,Magic,Amway Center
+,2016-11-16,7:00PM,86,CLE,Cleveland,Cavaliers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-16,7:30PM,108,DAL,Dallas,Mavericks,82,BOS,Boston,Celtics,TD Garden
+,2016-11-16,7:30PM,88,DET,Detroit,Pistons,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-16,7:30PM,90,MIL,Milwaukee,Bucks,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-16,8:00PM,109,HOU,Houston,Rockets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-16,8:00PM,101,GSW,Golden State,Warriors,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-16,9:00PM,104,PHX,Phoenix,Suns,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-16,10:30PM,107,MEM,Memphis,Grizzlies,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-16,10:30PM,106,SAS,San Antonio,Spurs,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-17,7:00PM,83,NYK,New York,Knicks,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-17,7:30PM,90,MIL,Milwaukee,Bucks,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-17,8:00PM,97,POR,Portland,Trail Blazers,109,HOU,Houston,Rockets,Toyota Center
+,2016-11-17,8:00PM,85,PHI,Philadelphia,76ers,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-17,10:30PM,89,CHI,Chicago,Bulls,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-18,7:00PM,91,ATL,Atlanta,Hawks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-18,7:00PM,104,PHX,Phoenix,Suns,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-18,7:30PM,88,DET,Detroit,Pistons,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-18,8:00PM,97,POR,Portland,Trail Blazers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-18,8:00PM,84,BRO,Brooklyn,Nets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-18,8:00PM,101,GSW,Golden State,Warriors,82,BOS,Boston,Celtics,TD Garden
+,2016-11-18,8:30PM,107,MEM,Memphis,Grizzlies,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-18,9:00PM,81,TOR,Toronto,Raptors,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-18,10:30PM,106,SAS,San Antonio,Spurs,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-18,10:30PM,102,LAC,Los Angeles,Clippers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-19,5:00PM,98,UTA,Utah,Jazz,109,HOU,Houston,Rockets,Toyota Center
+,2016-11-19,7:00PM,93,CHA,Charlotte,Hornets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-19,7:00PM,92,MIA,Miami,Heat,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-19,7:00PM,108,DAL,Dallas,Mavericks,95,ORL,Orlando,Magic,Amway Center
+,2016-11-19,7:00PM,82,BOS,Boston,Celtics,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-19,7:30PM,104,PHX,Phoenix,Suns,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-19,8:00PM,100,MIN,Minnesota,Timberwolves,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-19,8:30PM,101,GSW,Golden State,Warriors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-19,10:30PM,89,CHI,Chicago,Bulls,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-20,12:00PM,91,ATL,Atlanta,Hawks,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-20,3:30PM,97,POR,Portland,Trail Blazers,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-20,7:00PM,87,IND,Indiana,Pacers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-20,9:00PM,81,TOR,Toronto,Raptors,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-20,9:00PM,98,UTA,Utah,Jazz,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-20,9:30PM,89,CHI,Chicago,Bulls,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-21,7:00PM,92,MIA,Miami,Heat,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-21,7:00PM,104,PHX,Phoenix,Suns,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-21,7:00PM,107,MEM,Memphis,Grizzlies,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-21,7:00PM,101,GSW,Golden State,Warriors,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-21,7:30PM,109,HOU,Houston,Rockets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-21,8:00PM,95,ORL,Orlando,Magic,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-21,8:00PM,82,BOS,Boston,Celtics,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-21,8:30PM,108,DAL,Dallas,Mavericks,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-21,10:30PM,81,TOR,Toronto,Raptors,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-11-22,7:30PM,97,POR,Portland,Trail Blazers,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-22,7:30PM,110,NOP,New Orleans,Pelicans,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-11-22,9:00PM,89,CHI,Chicago,Bulls,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-22,10:30PM,96,OKL,Oklahoma City,Thunder,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-23,7:00PM,107,MEM,Memphis,Grizzlies,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-23,7:00PM,106,SAS,San Antonio,Spurs,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-23,7:00PM,104,PHX,Phoenix,Suns,95,ORL,Orlando,Magic,Amway Center
+,2016-11-23,7:00PM,97,POR,Portland,Trail Blazers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-23,7:00PM,91,ATL,Atlanta,Hawks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-23,7:30PM,82,BOS,Boston,Celtics,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-23,7:30PM,92,MIA,Miami,Heat,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-23,8:00PM,81,TOR,Toronto,Raptors,109,HOU,Houston,Rockets,Toyota Center
+,2016-11-23,8:30PM,102,LAC,Los Angeles,Clippers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-23,9:00PM,99,DEN,Denver,Nuggets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-23,9:30PM,100,MIN,Minnesota,Timberwolves,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-23,10:30PM,105,LAL,Los Angeles,Lakers,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-23,10:30PM,96,OKL,Oklahoma City,Thunder,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-25,1:00PM,106,SAS,San Antonio,Spurs,82,BOS,Boston,Celtics,TD Garden
+,2016-11-25,7:00PM,94,WAS,Washington,Wizards,95,ORL,Orlando,Magic,Amway Center
+,2016-11-25,7:30PM,108,DAL,Dallas,Mavericks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-11-25,7:30PM,93,CHA,Charlotte,Hornets,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-25,7:30PM,89,CHI,Chicago,Bulls,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-25,7:30PM,102,LAC,Los Angeles,Clippers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-11-25,8:00PM,91,ATL,Atlanta,Hawks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-25,8:00PM,81,TOR,Toronto,Raptors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-25,8:00PM,92,MIA,Miami,Heat,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-25,8:00PM,84,BRO,Brooklyn,Nets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-25,9:00PM,96,OKL,Oklahoma City,Thunder,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-25,9:00PM,100,MIN,Minnesota,Timberwolves,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-25,10:00PM,110,NOP,New Orleans,Pelicans,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-25,10:30PM,101,GSW,Golden State,Warriors,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-25,10:30PM,109,HOU,Houston,Rockets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-11-26,7:00PM,106,SAS,San Antonio,Spurs,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-26,7:00PM,83,NYK,New York,Knicks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-26,8:00PM,88,DET,Detroit,Pistons,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-26,8:00PM,107,MEM,Memphis,Grizzlies,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-26,10:30PM,100,MIN,Minnesota,Timberwolves,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-27,1:00PM,86,CLE,Cleveland,Cavaliers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-11-27,3:30PM,99,DEN,Denver,Nuggets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-27,6:00PM,103,SAC,Sacramento,Kings,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-27,6:00PM,90,MIL,Milwaukee,Bucks,95,ORL,Orlando,Magic,Amway Center
+,2016-11-27,6:00PM,102,LAC,Los Angeles,Clippers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-11-27,7:00PM,110,NOP,New Orleans,Pelicans,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-27,9:00PM,109,HOU,Houston,Rockets,97,POR,Portland,Trail Blazers,Moda Center
+,2016-11-27,9:30PM,91,ATL,Atlanta,Hawks,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-11-28,7:00PM,103,SAC,Sacramento,Kings,94,WAS,Washington,Wizards,Verizon Center
+,2016-11-28,7:30PM,85,PHI,Philadelphia,76ers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-28,7:30PM,96,OKL,Oklahoma City,Thunder,83,NYK,New York,Knicks,Madison Square Garden
+,2016-11-28,7:30PM,82,BOS,Boston,Celtics,92,MIA,Miami,Heat,American Airlines Arena
+,2016-11-28,8:00PM,93,CHA,Charlotte,Hornets,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-11-28,8:00PM,98,UTA,Utah,Jazz,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-28,10:30PM,91,ATL,Atlanta,Hawks,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-11-29,7:00PM,88,DET,Detroit,Pistons,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-11-29,7:30PM,102,LAC,Los Angeles,Clippers,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-11-29,8:00PM,86,CLE,Cleveland,Cavaliers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-11-29,8:00PM,105,LAL,Los Angeles,Lakers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-11-29,8:30PM,95,ORL,Orlando,Magic,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-11-29,9:00PM,109,HOU,Houston,Rockets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-11-30,7:30PM,88,DET,Detroit,Pistons,82,BOS,Boston,Celtics,TD Garden
+,2016-11-30,7:30PM,107,MEM,Memphis,Grizzlies,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-11-30,8:00PM,105,LAL,Los Angeles,Lakers,89,CHI,Chicago,Bulls,United Center
+,2016-11-30,8:00PM,94,WAS,Washington,Wizards,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-11-30,8:00PM,83,NYK,New York,Knicks,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-11-30,8:30PM,106,SAS,San Antonio,Spurs,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-11-30,9:00PM,92,MIA,Miami,Heat,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-11-30,9:00PM,91,ATL,Atlanta,Hawks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-11-30,10:00PM,87,IND,Indiana,Pacers,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-01,7:00PM,108,DAL,Dallas,Mavericks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-01,7:30PM,90,MIL,Milwaukee,Bucks,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-01,8:00PM,95,ORL,Orlando,Magic,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-01,8:00PM,102,LAC,Los Angeles,Clippers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-01,9:00PM,92,MIA,Miami,Heat,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-01,10:30PM,109,HOU,Houston,Rockets,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-02,7:00PM,95,ORL,Orlando,Magic,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-02,7:30PM,103,SAC,Sacramento,Kings,82,BOS,Boston,Celtics,TD Garden
+,2016-12-02,7:30PM,105,LAL,Los Angeles,Lakers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-02,7:30PM,100,MIN,Minnesota,Timberwolves,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-02,8:00PM,86,CLE,Cleveland,Cavaliers,89,CHI,Chicago,Bulls,United Center
+,2016-12-02,8:00PM,102,LAC,Los Angeles,Clippers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-02,8:00PM,88,DET,Detroit,Pistons,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-02,8:30PM,94,WAS,Washington,Wizards,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-02,10:30PM,109,HOU,Houston,Rockets,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-03,5:00PM,84,BRO,Brooklyn,Nets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-03,7:00PM,100,MIN,Minnesota,Timberwolves,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-03,7:30PM,91,ATL,Atlanta,Hawks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-03,7:30PM,82,BOS,Boston,Celtics,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-03,8:00PM,105,LAL,Los Angeles,Lakers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-03,8:30PM,89,CHI,Chicago,Bulls,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-03,9:00PM,99,DEN,Denver,Nuggets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-03,10:00PM,92,MIA,Miami,Heat,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-03,10:30PM,104,PHX,Phoenix,Suns,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-04,6:00PM,95,ORL,Orlando,Magic,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-04,7:00PM,110,NOP,New Orleans,Pelicans,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-04,7:30PM,103,SAC,Sacramento,Kings,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-04,9:30PM,87,IND,Indiana,Pacers,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-05,7:00PM,99,DEN,Denver,Nuggets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-05,7:30PM,86,CLE,Cleveland,Cavaliers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-05,7:30PM,94,WAS,Washington,Wizards,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-05,7:30PM,96,OKL,Oklahoma City,Thunder,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-05,8:00PM,97,POR,Portland,Trail Blazers,89,CHI,Chicago,Bulls,United Center
+,2016-12-05,8:00PM,106,SAS,San Antonio,Spurs,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-05,8:00PM,107,MEM,Memphis,Grizzlies,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-05,8:00PM,82,BOS,Boston,Celtics,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-05,8:30PM,93,CHA,Charlotte,Hornets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-05,10:30PM,98,UTA,Utah,Jazz,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-05,10:30PM,87,IND,Indiana,Pacers,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-06,7:00PM,95,ORL,Orlando,Magic,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-06,7:30PM,83,NYK,New York,Knicks,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-06,7:30PM,89,CHI,Chicago,Bulls,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-06,8:00PM,85,PHI,Philadelphia,76ers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-06,8:00PM,106,SAS,San Antonio,Spurs,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-06,9:00PM,104,PHX,Phoenix,Suns,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-07,7:00PM,88,DET,Detroit,Pistons,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-07,7:00PM,82,BOS,Boston,Celtics,95,ORL,Orlando,Magic,Amway Center
+,2016-12-07,7:30PM,99,DEN,Denver,Nuggets,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-07,7:30PM,92,MIA,Miami,Heat,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-07,8:00PM,97,POR,Portland,Trail Blazers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-07,8:00PM,105,LAL,Los Angeles,Lakers,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-07,8:00PM,86,CLE,Cleveland,Cavaliers,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-07,8:30PM,103,SAC,Sacramento,Kings,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-07,9:00PM,87,IND,Indiana,Pacers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-07,10:30PM,101,GSW,Golden State,Warriors,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-08,7:00PM,100,MIN,Minnesota,Timberwolves,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-08,7:00PM,99,DEN,Denver,Nuggets,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-08,8:00PM,97,POR,Portland,Trail Blazers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-08,8:00PM,85,PHI,Philadelphia,76ers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-08,9:00PM,101,GSW,Golden State,Warriors,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-08,9:30PM,106,SAS,San Antonio,Spurs,89,CHI,Chicago,Bulls,United Center
+,2016-12-09,7:00PM,95,ORL,Orlando,Magic,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-09,7:30PM,92,MIA,Miami,Heat,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-09,7:30PM,81,TOR,Toronto,Raptors,82,BOS,Boston,Celtics,TD Garden
+,2016-12-09,8:00PM,91,ATL,Atlanta,Hawks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-09,8:00PM,109,HOU,Houston,Rockets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-09,8:00PM,88,DET,Detroit,Pistons,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-09,8:30PM,87,IND,Indiana,Pacers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-09,10:30PM,104,PHX,Phoenix,Suns,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-09,10:30PM,83,NYK,New York,Knicks,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-12-10,7:00PM,90,MIL,Milwaukee,Bucks,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-10,7:00PM,99,DEN,Denver,Nuggets,95,ORL,Orlando,Magic,Amway Center
+,2016-12-10,7:00PM,97,POR,Portland,Trail Blazers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-12-10,7:30PM,93,CHA,Charlotte,Hornets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-10,8:00PM,92,MIA,Miami,Heat,89,CHI,Chicago,Bulls,United Center
+,2016-12-10,8:00PM,101,GSW,Golden State,Warriors,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-10,8:00PM,108,DAL,Dallas,Mavericks,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-10,8:30PM,84,BRO,Brooklyn,Nets,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-10,9:00PM,103,SAC,Sacramento,Kings,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-10,10:30PM,110,NOP,New Orleans,Pelicans,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-11,6:00PM,85,PHI,Philadelphia,76ers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-11,7:00PM,82,BOS,Boston,Celtics,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-11,7:00PM,101,GSW,Golden State,Warriors,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-11,8:30PM,110,NOP,New Orleans,Pelicans,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-11,9:30PM,83,NYK,New York,Knicks,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-12,7:00PM,93,CHA,Charlotte,Hornets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-12-12,7:30PM,90,MIL,Milwaukee,Bucks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-12,7:30PM,94,WAS,Washington,Wizards,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-12,8:00PM,84,BRO,Brooklyn,Nets,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-12,8:30PM,99,DEN,Denver,Nuggets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-12,10:30PM,97,POR,Portland,Trail Blazers,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-12,10:30PM,105,LAL,Los Angeles,Lakers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-12-13,7:00PM,107,MEM,Memphis,Grizzlies,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-13,7:30PM,95,ORL,Orlando,Magic,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-13,8:00PM,100,MIN,Minnesota,Timberwolves,89,CHI,Chicago,Bulls,United Center
+,2016-12-13,8:00PM,101,GSW,Golden State,Warriors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-13,9:00PM,83,NYK,New York,Knicks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-13,10:30PM,96,OKL,Oklahoma City,Thunder,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-14,7:00PM,81,TOR,Toronto,Raptors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-14,7:00PM,93,CHA,Charlotte,Hornets,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-14,7:00PM,102,LAC,Los Angeles,Clippers,95,ORL,Orlando,Magic,Amway Center
+,2016-12-14,7:00PM,87,IND,Indiana,Pacers,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-14,7:30PM,105,LAL,Los Angeles,Lakers,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-14,8:00PM,86,CLE,Cleveland,Cavaliers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-14,8:00PM,103,SAC,Sacramento,Kings,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-14,8:30PM,88,DET,Detroit,Pistons,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-14,9:00PM,96,OKL,Oklahoma City,Thunder,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-14,9:30PM,82,BOS,Boston,Celtics,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-15,8:00PM,89,CHI,Chicago,Bulls,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-15,8:00PM,87,IND,Indiana,Pacers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-15,9:00PM,97,POR,Portland,Trail Blazers,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-15,9:00PM,106,SAS,San Antonio,Spurs,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-15,10:30PM,83,NYK,New York,Knicks,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-16,7:00PM,88,DET,Detroit,Pistons,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-16,7:00PM,84,BRO,Brooklyn,Nets,95,ORL,Orlando,Magic,Amway Center
+,2016-12-16,7:30PM,93,CHA,Charlotte,Hornets,82,BOS,Boston,Celtics,TD Garden
+,2016-12-16,7:30PM,91,ATL,Atlanta,Hawks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-16,8:00PM,90,MIL,Milwaukee,Bucks,89,CHI,Chicago,Bulls,United Center
+,2016-12-16,8:00PM,103,SAC,Sacramento,Kings,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-16,8:00PM,110,NOP,New Orleans,Pelicans,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-16,8:00PM,105,LAL,Los Angeles,Lakers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-16,8:00PM,102,LAC,Los Angeles,Clippers,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-16,10:30PM,108,DAL,Dallas,Mavericks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-17,5:00PM,104,PHX,Phoenix,Suns,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-17,7:00PM,87,IND,Indiana,Pacers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-17,7:30PM,93,CHA,Charlotte,Hornets,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-17,7:30PM,105,LAL,Los Angeles,Lakers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-17,8:00PM,109,HOU,Houston,Rockets,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-17,9:00PM,83,NYK,New York,Knicks,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-17,10:30PM,97,POR,Portland,Trail Blazers,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-18,3:30PM,102,LAC,Los Angeles,Clippers,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-18,4:00PM,103,SAC,Sacramento,Kings,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-18,6:00PM,98,UTA,Utah,Jazz,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-18,6:00PM,84,BRO,Brooklyn,Nets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-18,6:00PM,81,TOR,Toronto,Raptors,95,ORL,Orlando,Magic,Amway Center
+,2016-12-18,6:00PM,82,BOS,Boston,Celtics,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-18,7:00PM,110,NOP,New Orleans,Pelicans,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-19,7:00PM,94,WAS,Washington,Wizards,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-12-19,8:00PM,88,DET,Detroit,Pistons,89,CHI,Chicago,Bulls,United Center
+,2016-12-19,8:00PM,91,ATL,Atlanta,Hawks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-19,8:00PM,104,PHX,Phoenix,Suns,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-19,9:00PM,108,DAL,Dallas,Mavericks,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-20,7:00PM,110,NOP,New Orleans,Pelicans,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2016-12-20,7:00PM,105,LAL,Los Angeles,Lakers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-20,7:30PM,84,BRO,Brooklyn,Nets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2016-12-20,7:30PM,87,IND,Indiana,Pacers,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-20,7:30PM,95,ORL,Orlando,Magic,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-20,8:00PM,86,CLE,Cleveland,Cavaliers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-20,8:00PM,82,BOS,Boston,Celtics,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-20,8:00PM,106,SAS,San Antonio,Spurs,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-20,10:30PM,99,DEN,Denver,Nuggets,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-20,10:30PM,98,UTA,Utah,Jazz,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-20,10:30PM,97,POR,Portland,Trail Blazers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-12-21,7:00PM,90,MIL,Milwaukee,Bucks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-21,7:30PM,100,MIN,Minnesota,Timberwolves,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-21,7:30PM,107,MEM,Memphis,Grizzlies,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-21,8:00PM,94,WAS,Washington,Wizards,89,CHI,Chicago,Bulls,United Center
+,2016-12-21,8:00PM,96,OKL,Oklahoma City,Thunder,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-21,9:00PM,103,SAC,Sacramento,Kings,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-21,9:00PM,109,HOU,Houston,Rockets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-21,10:00PM,108,DAL,Dallas,Mavericks,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-22,7:00PM,82,BOS,Boston,Celtics,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-12-22,7:30PM,101,GSW,Golden State,Warriors,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-22,7:30PM,95,ORL,Orlando,Magic,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-22,8:00PM,105,LAL,Los Angeles,Lakers,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-22,10:30PM,106,SAS,San Antonio,Spurs,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-23,7:00PM,89,CHI,Chicago,Bulls,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-23,7:00PM,105,LAL,Los Angeles,Lakers,95,ORL,Orlando,Magic,Amway Center
+,2016-12-23,7:30PM,84,BRO,Brooklyn,Nets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-23,7:30PM,96,OKL,Oklahoma City,Thunder,82,BOS,Boston,Celtics,TD Garden
+,2016-12-23,7:30PM,101,GSW,Golden State,Warriors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-23,8:00PM,94,WAS,Washington,Wizards,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2016-12-23,8:00PM,109,HOU,Houston,Rockets,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-23,8:00PM,92,MIA,Miami,Heat,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-23,8:00PM,103,SAC,Sacramento,Kings,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-23,9:00PM,91,ATL,Atlanta,Hawks,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-23,9:00PM,81,TOR,Toronto,Raptors,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-23,9:00PM,85,PHI,Philadelphia,76ers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-23,10:00PM,106,SAS,San Antonio,Spurs,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-23,10:30PM,108,DAL,Dallas,Mavericks,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-25,12:00PM,82,BOS,Boston,Celtics,83,NYK,New York,Knicks,Madison Square Garden
+,2016-12-25,2:30PM,101,GSW,Golden State,Warriors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-25,5:00PM,89,CHI,Chicago,Bulls,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-25,8:00PM,100,MIN,Minnesota,Timberwolves,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2016-12-25,10:30PM,102,LAC,Los Angeles,Clippers,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-26,7:00PM,90,MIL,Milwaukee,Bucks,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-26,7:00PM,107,MEM,Memphis,Grizzlies,95,ORL,Orlando,Magic,Amway Center
+,2016-12-26,7:30PM,93,CHA,Charlotte,Hornets,84,BRO,Brooklyn,Nets,Barclays Center
+,2016-12-26,7:30PM,86,CLE,Cleveland,Cavaliers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-26,8:00PM,87,IND,Indiana,Pacers,89,CHI,Chicago,Bulls,United Center
+,2016-12-26,8:00PM,108,DAL,Dallas,Mavericks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-26,8:00PM,104,PHX,Phoenix,Suns,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-26,8:00PM,91,ATL,Atlanta,Hawks,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-26,10:00PM,81,TOR,Toronto,Raptors,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-26,10:30PM,99,DEN,Denver,Nuggets,102,LAC,Los Angeles,Clippers,Staples Center
+,2016-12-26,10:30PM,85,PHI,Philadelphia,76ers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-12-27,7:30PM,107,MEM,Memphis,Grizzlies,82,BOS,Boston,Celtics,TD Garden
+,2016-12-27,7:30PM,96,OKL,Oklahoma City,Thunder,92,MIA,Miami,Heat,American Airlines Arena
+,2016-12-27,8:30PM,109,HOU,Houston,Rockets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2016-12-27,10:30PM,98,UTA,Utah,Jazz,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-28,7:00PM,87,IND,Indiana,Pacers,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-28,7:00PM,93,CHA,Charlotte,Hornets,95,ORL,Orlando,Magic,Amway Center
+,2016-12-28,7:30PM,83,NYK,New York,Knicks,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-28,7:30PM,90,MIL,Milwaukee,Bucks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2016-12-28,8:00PM,84,BRO,Brooklyn,Nets,89,CHI,Chicago,Bulls,United Center
+,2016-12-28,8:30PM,104,PHX,Phoenix,Suns,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-28,9:00PM,100,MIN,Minnesota,Timberwolves,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-28,9:00PM,102,LAC,Los Angeles,Clippers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-28,10:00PM,103,SAC,Sacramento,Kings,97,POR,Portland,Trail Blazers,Moda Center
+,2016-12-28,10:30PM,81,TOR,Toronto,Raptors,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-29,7:00PM,92,MIA,Miami,Heat,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-29,8:00PM,96,OKL,Oklahoma City,Thunder,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2016-12-29,8:00PM,82,BOS,Boston,Celtics,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2016-12-29,9:00PM,85,PHI,Philadelphia,76ers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-29,9:00PM,81,TOR,Toronto,Raptors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2016-12-29,10:30PM,108,DAL,Dallas,Mavericks,105,LAL,Los Angeles,Lakers,Staples Center
+,2016-12-30,4:00PM,89,CHI,Chicago,Bulls,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2016-12-30,7:00PM,84,BRO,Brooklyn,Nets,94,WAS,Washington,Wizards,Verizon Center
+,2016-12-30,7:30PM,92,MIA,Miami,Heat,82,BOS,Boston,Celtics,TD Garden
+,2016-12-30,8:00PM,83,NYK,New York,Knicks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2016-12-30,8:00PM,102,LAC,Los Angeles,Clippers,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-30,8:00PM,90,MIL,Milwaukee,Bucks,100,MIN,Minnesota,Timberwolves,Target Center
+,2016-12-30,8:00PM,88,DET,Detroit,Pistons,91,ATL,Atlanta,Hawks,Philips Arena
+,2016-12-30,8:30PM,97,POR,Portland,Trail Blazers,106,SAS,San Antonio,Spurs,AT&T Center
+,2016-12-30,9:00PM,85,PHI,Philadelphia,76ers,99,DEN,Denver,Nuggets,Pepsi Center
+,2016-12-30,10:30PM,108,DAL,Dallas,Mavericks,101,GSW,Golden State,Warriors,Oracle Arena
+,2016-12-31,5:00PM,107,MEM,Memphis,Grizzlies,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2016-12-31,7:00PM,90,MIL,Milwaukee,Bucks,89,CHI,Chicago,Bulls,United Center
+,2016-12-31,7:00PM,86,CLE,Cleveland,Cavaliers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2016-12-31,8:00PM,83,NYK,New York,Knicks,109,HOU,Houston,Rockets,Toyota Center
+,2016-12-31,8:00PM,104,PHX,Phoenix,Suns,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2016-12-31,8:00PM,102,LAC,Los Angeles,Clippers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-01-01,6:00PM,106,SAS,San Antonio,Spurs,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-01,6:00PM,88,DET,Detroit,Pistons,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-01,6:00PM,95,ORL,Orlando,Magic,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-01,7:00PM,97,POR,Portland,Trail Blazers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-01,9:30PM,81,TOR,Toronto,Raptors,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-02,7:00PM,96,OKL,Oklahoma City,Thunder,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-02,7:00PM,110,NOP,New Orleans,Pelicans,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-02,7:30PM,98,UTA,Utah,Jazz,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-02,7:30PM,95,ORL,Orlando,Magic,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-02,8:00PM,93,CHA,Charlotte,Hornets,89,CHI,Chicago,Bulls,United Center
+,2017-01-02,8:00PM,94,WAS,Washington,Wizards,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-02,10:30PM,104,PHX,Phoenix,Suns,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-02,10:30PM,99,DEN,Denver,Nuggets,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-03,7:00PM,100,MIN,Minnesota,Timberwolves,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-03,7:30PM,98,UTA,Utah,Jazz,82,BOS,Boston,Celtics,TD Garden
+,2017-01-03,7:30PM,87,IND,Indiana,Pacers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-01-03,8:30PM,94,WAS,Washington,Wizards,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-03,8:30PM,81,TOR,Toronto,Raptors,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-03,9:00PM,103,SAC,Sacramento,Kings,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-03,9:00PM,92,MIA,Miami,Heat,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-03,10:30PM,107,MEM,Memphis,Grizzlies,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-04,7:00PM,96,OKL,Oklahoma City,Thunder,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-04,7:00PM,91,ATL,Atlanta,Hawks,95,ORL,Orlando,Magic,Amway Center
+,2017-01-04,7:30PM,90,MIL,Milwaukee,Bucks,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-04,8:00PM,89,CHI,Chicago,Bulls,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-04,10:30PM,107,MEM,Memphis,Grizzlies,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-04,10:30PM,97,POR,Portland,Trail Blazers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-04,10:30PM,92,MIA,Miami,Heat,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-05,7:00PM,84,BRO,Brooklyn,Nets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-05,7:30PM,98,UTA,Utah,Jazz,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-05,7:30PM,93,CHA,Charlotte,Hornets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-01-05,8:00PM,91,ATL,Atlanta,Hawks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-05,8:00PM,96,OKL,Oklahoma City,Thunder,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-05,8:30PM,104,PHX,Phoenix,Suns,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-05,9:00PM,106,SAS,San Antonio,Spurs,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-05,10:30PM,105,LAL,Los Angeles,Lakers,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-06,7:00PM,100,MIN,Minnesota,Timberwolves,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-06,7:00PM,109,HOU,Houston,Rockets,95,ORL,Orlando,Magic,Amway Center
+,2017-01-06,7:30PM,85,PHI,Philadelphia,76ers,82,BOS,Boston,Celtics,TD Garden
+,2017-01-06,7:30PM,86,CLE,Cleveland,Cavaliers,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-06,8:00PM,83,NYK,New York,Knicks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-06,10:30PM,92,MIA,Miami,Heat,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-06,10:30PM,107,MEM,Memphis,Grizzlies,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-06,10:30PM,102,LAC,Los Angeles,Clippers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-07,7:00PM,83,NYK,New York,Knicks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-07,7:30PM,110,NOP,New Orleans,Pelicans,82,BOS,Boston,Celtics,TD Garden
+,2017-01-07,8:00PM,81,TOR,Toronto,Raptors,89,CHI,Chicago,Bulls,United Center
+,2017-01-07,8:00PM,99,DEN,Denver,Nuggets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-01-07,8:00PM,98,UTA,Utah,Jazz,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-07,8:30PM,91,ATL,Atlanta,Hawks,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-07,8:30PM,93,CHA,Charlotte,Hornets,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-08,12:00PM,85,PHI,Philadelphia,76ers,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-08,1:00PM,94,WAS,Washington,Wizards,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-08,3:30PM,92,MIA,Miami,Heat,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-08,6:00PM,109,HOU,Houston,Rockets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-08,8:00PM,98,UTA,Utah,Jazz,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-01-08,8:30PM,86,CLE,Cleveland,Cavaliers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-08,9:00PM,88,DET,Detroit,Pistons,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-08,9:00PM,101,GSW,Golden State,Warriors,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-08,9:30PM,95,ORL,Orlando,Magic,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-09,7:30PM,110,NOP,New Orleans,Pelicans,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-09,8:00PM,96,OKL,Oklahoma City,Thunder,89,CHI,Chicago,Bulls,United Center
+,2017-01-09,8:00PM,108,DAL,Dallas,Mavericks,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-10,7:00PM,89,CHI,Chicago,Bulls,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-10,7:30PM,82,BOS,Boston,Celtics,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-10,7:30PM,91,ATL,Atlanta,Hawks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-10,8:00PM,93,CHA,Charlotte,Hornets,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-10,8:30PM,90,MIL,Milwaukee,Bucks,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-10,9:00PM,86,CLE,Cleveland,Cavaliers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-10,10:30PM,97,POR,Portland,Trail Blazers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-10,10:30PM,92,MIA,Miami,Heat,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-10,10:30PM,88,DET,Detroit,Pistons,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-11,7:00PM,83,NYK,New York,Knicks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-11,8:00PM,107,MEM,Memphis,Grizzlies,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-01-11,8:00PM,109,HOU,Houston,Rockets,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-11,8:00PM,94,WAS,Washington,Wizards,82,BOS,Boston,Celtics,TD Garden
+,2017-01-11,10:30PM,95,ORL,Orlando,Magic,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-11,10:30PM,86,CLE,Cleveland,Cavaliers,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-12,3:00PM,87,IND,Indiana,Pacers,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-12,7:30PM,110,NOP,New Orleans,Pelicans,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-12,8:00PM,89,CHI,Chicago,Bulls,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-12,8:30PM,105,LAL,Los Angeles,Lakers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-12,10:00PM,108,DAL,Dallas,Mavericks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-12,10:30PM,88,DET,Detroit,Pistons,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-13,7:00PM,93,CHA,Charlotte,Hornets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-13,7:30PM,84,BRO,Brooklyn,Nets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-13,8:00PM,92,MIA,Miami,Heat,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-13,8:00PM,107,MEM,Memphis,Grizzlies,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-13,8:00PM,96,OKL,Oklahoma City,Thunder,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-13,8:00PM,82,BOS,Boston,Celtics,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-13,10:00PM,95,ORL,Orlando,Magic,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-13,10:30PM,86,CLE,Cleveland,Cavaliers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-13,10:30PM,88,DET,Detroit,Pistons,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-14,3:30PM,105,LAL,Los Angeles,Lakers,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-14,5:00PM,110,NOP,New Orleans,Pelicans,89,CHI,Chicago,Bulls,United Center
+,2017-01-14,6:00PM,106,SAS,San Antonio,Spurs,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-14,8:00PM,85,PHI,Philadelphia,76ers,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-14,9:00PM,95,ORL,Orlando,Magic,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-15,2:00PM,100,MIN,Minnesota,Timberwolves,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-15,3:00PM,83,NYK,New York,Knicks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-15,3:00PM,90,MIL,Milwaukee,Bucks,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-15,6:00PM,109,HOU,Houston,Rockets,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-15,9:00PM,96,OKL,Oklahoma City,Thunder,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-15,9:00PM,89,CHI,Chicago,Bulls,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-01-15,9:30PM,88,DET,Detroit,Pistons,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-16,1:00PM,91,ATL,Atlanta,Hawks,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-16,2:00PM,97,POR,Portland,Trail Blazers,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-16,3:30PM,85,PHI,Philadelphia,76ers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-16,4:00PM,110,NOP,New Orleans,Pelicans,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-16,5:00PM,95,ORL,Orlando,Magic,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-16,7:30PM,93,CHA,Charlotte,Hornets,82,BOS,Boston,Celtics,TD Garden
+,2017-01-16,8:00PM,86,CLE,Cleveland,Cavaliers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-16,9:00PM,98,UTA,Utah,Jazz,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-16,10:30PM,96,OKL,Oklahoma City,Thunder,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-17,7:30PM,81,TOR,Toronto,Raptors,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-17,7:30PM,109,HOU,Houston,Rockets,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-17,8:00PM,108,DAL,Dallas,Mavericks,89,CHI,Chicago,Bulls,United Center
+,2017-01-17,8:30PM,100,MIN,Minnesota,Timberwolves,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-17,10:30PM,99,DEN,Denver,Nuggets,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-18,7:00PM,81,TOR,Toronto,Raptors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-18,7:00PM,107,MEM,Memphis,Grizzlies,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-18,7:00PM,97,POR,Portland,Trail Blazers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-18,7:30PM,83,NYK,New York,Knicks,82,BOS,Boston,Celtics,TD Garden
+,2017-01-18,8:00PM,95,ORL,Orlando,Magic,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-18,8:00PM,90,MIL,Milwaukee,Bucks,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-18,8:00PM,91,ATL,Atlanta,Hawks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-01-18,10:30PM,96,OKL,Oklahoma City,Thunder,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-18,10:30PM,87,IND,Indiana,Pacers,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-01-19,7:00PM,104,PHX,Phoenix,Suns,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-19,7:30PM,108,DAL,Dallas,Mavericks,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-19,8:00PM,94,WAS,Washington,Wizards,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-19,8:30PM,99,DEN,Denver,Nuggets,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-19,10:30PM,100,MIN,Minnesota,Timberwolves,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-01-20,7:00PM,97,POR,Portland,Trail Blazers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-20,7:00PM,81,TOR,Toronto,Raptors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-20,7:00PM,90,MIL,Milwaukee,Bucks,95,ORL,Orlando,Magic,Amway Center
+,2017-01-20,8:00PM,103,SAC,Sacramento,Kings,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-01-20,8:00PM,84,BRO,Brooklyn,Nets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-20,8:00PM,101,GSW,Golden State,Warriors,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-20,8:00PM,89,CHI,Chicago,Bulls,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-20,8:30PM,98,UTA,Utah,Jazz,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-20,10:30PM,87,IND,Indiana,Pacers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-01-21,5:00PM,97,POR,Portland,Trail Blazers,82,BOS,Boston,Celtics,TD Garden
+,2017-01-21,6:00PM,94,WAS,Washington,Wizards,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-01-21,7:00PM,84,BRO,Brooklyn,Nets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-21,7:00PM,85,PHI,Philadelphia,76ers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-21,7:30PM,104,PHX,Phoenix,Suns,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-21,7:30PM,90,MIL,Milwaukee,Bucks,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-21,8:00PM,109,HOU,Houston,Rockets,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-01-21,8:30PM,106,SAS,San Antonio,Spurs,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-21,9:00PM,102,LAC,Los Angeles,Clippers,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-21,9:00PM,87,IND,Indiana,Pacers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-21,9:00PM,103,SAC,Sacramento,Kings,89,CHI,Chicago,Bulls,United Center
+,2017-01-22,12:00PM,101,GSW,Golden State,Warriors,95,ORL,Orlando,Magic,Amway Center
+,2017-01-22,3:30PM,105,LAL,Los Angeles,Lakers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-22,6:00PM,104,PHX,Phoenix,Suns,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-22,7:00PM,99,DEN,Denver,Nuggets,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-23,7:00PM,94,WAS,Washington,Wizards,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-23,7:30PM,106,SAS,San Antonio,Spurs,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-23,7:30PM,102,LAC,Los Angeles,Clippers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-23,7:30PM,101,GSW,Golden State,Warriors,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-23,7:30PM,103,SAC,Sacramento,Kings,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-01-23,8:00PM,109,HOU,Houston,Rockets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-23,8:00PM,86,CLE,Cleveland,Cavaliers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-23,8:00PM,83,NYK,New York,Knicks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-23,9:00PM,96,OKL,Oklahoma City,Thunder,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-24,7:00PM,106,SAS,San Antonio,Spurs,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-24,7:00PM,102,LAC,Los Angeles,Clippers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-24,7:00PM,82,BOS,Boston,Celtics,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-24,7:00PM,89,CHI,Chicago,Bulls,95,ORL,Orlando,Magic,Amway Center
+,2017-01-24,9:00PM,98,UTA,Utah,Jazz,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-24,9:00PM,100,MIN,Minnesota,Timberwolves,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-25,7:00PM,103,SAC,Sacramento,Kings,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-25,7:30PM,109,HOU,Houston,Rockets,82,BOS,Boston,Celtics,TD Garden
+,2017-01-25,7:30PM,92,MIA,Miami,Heat,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-01-25,8:00PM,91,ATL,Atlanta,Hawks,89,CHI,Chicago,Bulls,United Center
+,2017-01-25,8:00PM,85,PHI,Philadelphia,76ers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-25,8:00PM,81,TOR,Toronto,Raptors,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-01-25,8:00PM,96,OKL,Oklahoma City,Thunder,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-25,8:00PM,101,GSW,Golden State,Warriors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-25,8:30PM,83,NYK,New York,Knicks,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-25,10:30PM,105,LAL,Los Angeles,Lakers,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-26,8:00PM,108,DAL,Dallas,Mavericks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-01-26,8:00PM,87,IND,Indiana,Pacers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-26,9:00PM,104,PHX,Phoenix,Suns,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-01-26,10:30PM,105,LAL,Los Angeles,Lakers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-27,7:00PM,103,SAC,Sacramento,Kings,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-27,7:30PM,84,BRO,Brooklyn,Nets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-27,7:30PM,95,ORL,Orlando,Magic,82,BOS,Boston,Celtics,TD Garden
+,2017-01-27,7:30PM,90,MIL,Milwaukee,Bucks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-27,7:30PM,93,CHA,Charlotte,Hornets,83,NYK,New York,Knicks,Madison Square Garden
+,2017-01-27,8:00PM,109,HOU,Houston,Rockets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-27,8:00PM,92,MIA,Miami,Heat,89,CHI,Chicago,Bulls,United Center
+,2017-01-27,8:00PM,106,SAS,San Antonio,Spurs,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-27,8:00PM,94,WAS,Washington,Wizards,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-27,10:00PM,107,MEM,Memphis,Grizzlies,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-28,7:00PM,103,SAC,Sacramento,Kings,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-01-28,7:30PM,88,DET,Detroit,Pistons,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-28,8:00PM,82,BOS,Boston,Celtics,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-01-28,8:30PM,102,LAC,Los Angeles,Clippers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-01-28,9:00PM,107,MEM,Memphis,Grizzlies,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-01-28,9:00PM,99,DEN,Denver,Nuggets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-28,9:00PM,84,BRO,Brooklyn,Nets,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-29,3:00PM,83,NYK,New York,Knicks,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-01-29,3:30PM,96,OKL,Oklahoma City,Thunder,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-01-29,6:00PM,109,HOU,Houston,Rockets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-01-29,6:00PM,94,WAS,Washington,Wizards,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-01-29,6:00PM,95,ORL,Orlando,Magic,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-29,7:00PM,85,PHI,Philadelphia,76ers,89,CHI,Chicago,Bulls,United Center
+,2017-01-29,7:00PM,108,DAL,Dallas,Mavericks,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-29,9:00PM,101,GSW,Golden State,Warriors,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-30,6:00PM,103,SAC,Sacramento,Kings,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-01-30,7:30PM,84,BRO,Brooklyn,Nets,92,MIA,Miami,Heat,American Airlines Arena
+,2017-01-30,8:00PM,95,ORL,Orlando,Magic,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-01-30,8:00PM,88,DET,Detroit,Pistons,82,BOS,Boston,Celtics,TD Garden
+,2017-01-30,8:30PM,86,CLE,Cleveland,Cavaliers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-01-30,10:30PM,107,MEM,Memphis,Grizzlies,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-01-31,7:00PM,83,NYK,New York,Knicks,94,WAS,Washington,Wizards,Verizon Center
+,2017-01-31,7:00PM,110,NOP,New Orleans,Pelicans,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-01-31,8:00PM,103,SAC,Sacramento,Kings,109,HOU,Houston,Rockets,Toyota Center
+,2017-01-31,8:30PM,96,OKL,Oklahoma City,Thunder,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-01-31,10:00PM,93,CHA,Charlotte,Hornets,97,POR,Portland,Trail Blazers,Moda Center
+,2017-01-31,10:30PM,99,DEN,Denver,Nuggets,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-02-01,7:00PM,87,IND,Indiana,Pacers,95,ORL,Orlando,Magic,Amway Center
+,2017-02-01,7:00PM,100,MIN,Minnesota,Timberwolves,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-01,7:30PM,81,TOR,Toronto,Raptors,82,BOS,Boston,Celtics,TD Garden
+,2017-02-01,7:30PM,83,NYK,New York,Knicks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-01,7:30PM,91,ATL,Atlanta,Hawks,92,MIA,Miami,Heat,American Airlines Arena
+,2017-02-01,7:30PM,110,NOP,New Orleans,Pelicans,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-01,8:30PM,85,PHI,Philadelphia,76ers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-01,9:00PM,107,MEM,Memphis,Grizzlies,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-01,9:00PM,90,MIL,Milwaukee,Bucks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-02-01,9:00PM,102,LAC,Los Angeles,Clippers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-02-01,9:30PM,89,CHI,Chicago,Bulls,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-01,10:30PM,93,CHA,Charlotte,Hornets,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-02-02,7:00PM,105,LAL,Los Angeles,Lakers,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-02,8:00PM,91,ATL,Atlanta,Hawks,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-02,8:30PM,85,PHI,Philadelphia,76ers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-02-02,10:30PM,101,GSW,Golden State,Warriors,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-02-03,7:00PM,81,TOR,Toronto,Raptors,95,ORL,Orlando,Magic,Amway Center
+,2017-02-03,7:30PM,87,IND,Indiana,Pacers,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-03,7:30PM,100,MIN,Minnesota,Timberwolves,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-03,8:00PM,89,CHI,Chicago,Bulls,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-03,8:00PM,107,MEM,Memphis,Grizzlies,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-03,8:00PM,105,LAL,Los Angeles,Lakers,82,BOS,Boston,Celtics,TD Garden
+,2017-02-03,9:00PM,90,MIL,Milwaukee,Bucks,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-03,10:30PM,104,PHX,Phoenix,Suns,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-03,10:30PM,108,DAL,Dallas,Mavericks,97,POR,Portland,Trail Blazers,Moda Center
+,2017-02-04,7:00PM,110,NOP,New Orleans,Pelicans,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-04,7:00PM,95,ORL,Orlando,Magic,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-02-04,7:00PM,88,DET,Detroit,Pistons,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-04,7:30PM,85,PHI,Philadelphia,76ers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-02-04,8:30PM,86,CLE,Cleveland,Cavaliers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-04,9:00PM,93,CHA,Charlotte,Hornets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-02-04,9:00PM,90,MIL,Milwaukee,Bucks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-02-04,9:00PM,99,DEN,Denver,Nuggets,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-02-04,9:00PM,107,MEM,Memphis,Grizzlies,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-04,10:30PM,101,GSW,Golden State,Warriors,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-05,12:00PM,81,TOR,Toronto,Raptors,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-05,2:00PM,102,LAC,Los Angeles,Clippers,82,BOS,Boston,Celtics,TD Garden
+,2017-02-05,3:00PM,97,POR,Portland,Trail Blazers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-06,7:00PM,105,LAL,Los Angeles,Lakers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-06,7:00PM,86,CLE,Cleveland,Cavaliers,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-06,7:00PM,96,OKL,Oklahoma City,Thunder,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-06,7:30PM,102,LAC,Los Angeles,Clippers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-02-06,7:30PM,98,UTA,Utah,Jazz,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-02-06,7:30PM,85,PHI,Philadelphia,76ers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-06,8:00PM,104,PHX,Phoenix,Suns,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-02-06,8:00PM,92,MIA,Miami,Heat,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-06,9:00PM,108,DAL,Dallas,Mavericks,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-06,9:30PM,106,SAS,San Antonio,Spurs,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-02-06,10:30PM,89,CHI,Chicago,Bulls,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-07,7:00PM,84,BRO,Brooklyn,Nets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-02-07,8:00PM,95,ORL,Orlando,Magic,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-07,8:30PM,97,POR,Portland,Trail Blazers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-08,7:00PM,106,SAS,San Antonio,Spurs,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-02-08,7:00PM,86,CLE,Cleveland,Cavaliers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-08,7:30PM,94,WAS,Washington,Wizards,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-08,7:30PM,99,DEN,Denver,Nuggets,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-02-08,7:30PM,105,LAL,Los Angeles,Lakers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-08,8:00PM,92,MIA,Miami,Heat,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-02-08,8:00PM,104,PHX,Phoenix,Suns,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-02-08,8:00PM,98,UTA,Utah,Jazz,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-02-08,8:00PM,81,TOR,Toronto,Raptors,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-08,8:00PM,102,LAC,Los Angeles,Clippers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-08,10:30PM,89,CHI,Chicago,Bulls,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-02-08,10:30PM,82,BOS,Boston,Celtics,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-09,7:00PM,109,HOU,Houston,Rockets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-02-09,7:00PM,85,PHI,Philadelphia,76ers,95,ORL,Orlando,Magic,Amway Center
+,2017-02-09,8:00PM,86,CLE,Cleveland,Cavaliers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-09,8:30PM,98,UTA,Utah,Jazz,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-09,10:30PM,82,BOS,Boston,Celtics,97,POR,Portland,Trail Blazers,Moda Center
+,2017-02-10,7:30PM,92,MIA,Miami,Heat,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-10,7:30PM,99,DEN,Denver,Nuggets,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-10,7:30PM,106,SAS,San Antonio,Spurs,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-10,8:00PM,105,LAL,Los Angeles,Lakers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-02-10,8:00PM,101,GSW,Golden State,Warriors,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-02-10,8:00PM,110,NOP,New Orleans,Pelicans,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-10,8:00PM,87,IND,Indiana,Pacers,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-10,9:30PM,89,CHI,Chicago,Bulls,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-02-10,10:30PM,91,ATL,Atlanta,Hawks,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-11,5:00PM,102,LAC,Los Angeles,Clippers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-02-11,7:00PM,90,MIL,Milwaukee,Bucks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-11,7:30PM,92,MIA,Miami,Heat,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-02-11,7:30PM,99,DEN,Denver,Nuggets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-11,8:30PM,101,GSW,Golden State,Warriors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-11,9:00PM,104,PHX,Phoenix,Suns,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-11,9:00PM,95,ORL,Orlando,Magic,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-11,10:00PM,82,BOS,Boston,Celtics,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-02-12,3:30PM,89,CHI,Chicago,Bulls,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-12,3:30PM,106,SAS,San Antonio,Spurs,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-12,6:00PM,88,DET,Detroit,Pistons,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-02-12,9:00PM,110,NOP,New Orleans,Pelicans,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-13,7:00PM,85,PHI,Philadelphia,76ers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-02-13,7:00PM,106,SAS,San Antonio,Spurs,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-13,7:30PM,107,MEM,Memphis,Grizzlies,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-13,7:30PM,95,ORL,Orlando,Magic,92,MIA,Miami,Heat,American Airlines Arena
+,2017-02-13,8:00PM,96,OKL,Oklahoma City,Thunder,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-13,8:00PM,88,DET,Detroit,Pistons,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-02-13,8:30PM,82,BOS,Boston,Celtics,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-13,9:00PM,101,GSW,Golden State,Warriors,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-13,9:00PM,102,LAC,Los Angeles,Clippers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-02-13,9:00PM,110,NOP,New Orleans,Pelicans,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-02-13,10:30PM,91,ATL,Atlanta,Hawks,97,POR,Portland,Trail Blazers,Moda Center
+,2017-02-14,8:00PM,81,TOR,Toronto,Raptors,89,CHI,Chicago,Bulls,United Center
+,2017-02-14,8:00PM,86,CLE,Cleveland,Cavaliers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-14,10:30PM,103,SAC,Sacramento,Kings,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-02-15,7:00PM,106,SAS,San Antonio,Spurs,95,ORL,Orlando,Magic,Amway Center
+,2017-02-15,7:00PM,87,IND,Indiana,Pacers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-15,7:30PM,85,PHI,Philadelphia,76ers,82,BOS,Boston,Celtics,TD Garden
+,2017-02-15,7:30PM,93,CHA,Charlotte,Hornets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-02-15,7:30PM,90,MIL,Milwaukee,Bucks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-02-15,7:30PM,108,DAL,Dallas,Mavericks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-15,8:00PM,110,NOP,New Orleans,Pelicans,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-02-15,8:00PM,92,MIA,Miami,Heat,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-15,9:00PM,100,MIN,Minnesota,Timberwolves,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-15,9:00PM,97,POR,Portland,Trail Blazers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-02-15,9:00PM,105,LAL,Los Angeles,Lakers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-02-15,9:30PM,83,NYK,New York,Knicks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-15,10:30PM,91,ATL,Atlanta,Hawks,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-02-15,10:30PM,103,SAC,Sacramento,Kings,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-02-16,7:00PM,94,WAS,Washington,Wizards,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-16,8:00PM,82,BOS,Boston,Celtics,89,CHI,Chicago,Bulls,United Center
+,2017-02-23,7:00PM,97,POR,Portland,Trail Blazers,95,ORL,Orlando,Magic,Amway Center
+,2017-02-23,7:30PM,93,CHA,Charlotte,Hornets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-23,8:00PM,109,HOU,Houston,Rockets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-02-23,8:00PM,83,NYK,New York,Knicks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-23,10:30PM,102,LAC,Los Angeles,Clippers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-02-23,10:30PM,99,DEN,Denver,Nuggets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-24,7:00PM,94,WAS,Washington,Wizards,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-02-24,7:00PM,107,MEM,Memphis,Grizzlies,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-02-24,7:30PM,82,BOS,Boston,Celtics,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-02-24,8:00PM,104,PHX,Phoenix,Suns,89,CHI,Chicago,Bulls,United Center
+,2017-02-24,8:00PM,98,UTA,Utah,Jazz,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-02-24,8:00PM,105,LAL,Los Angeles,Lakers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-24,8:00PM,108,DAL,Dallas,Mavericks,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-02-24,8:00PM,92,MIA,Miami,Heat,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-02-24,9:00PM,84,BRO,Brooklyn,Nets,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-24,10:30PM,106,SAS,San Antonio,Spurs,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-02-25,5:00PM,93,CHA,Charlotte,Hornets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-25,7:00PM,91,ATL,Atlanta,Hawks,95,ORL,Orlando,Magic,Amway Center
+,2017-02-25,7:30PM,85,PHI,Philadelphia,76ers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-25,8:00PM,87,IND,Indiana,Pacers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-02-25,8:30PM,110,NOP,New Orleans,Pelicans,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-25,8:30PM,89,CHI,Chicago,Bulls,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-25,9:00PM,100,MIN,Minnesota,Timberwolves,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-25,10:30PM,84,BRO,Brooklyn,Nets,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-02-26,3:30PM,106,SAS,San Antonio,Spurs,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-02-26,3:30PM,104,PHX,Phoenix,Suns,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-02-26,5:00PM,107,MEM,Memphis,Grizzlies,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-02-26,5:00PM,98,UTA,Utah,Jazz,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-26,6:00PM,97,POR,Portland,Trail Blazers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-02-26,6:00PM,82,BOS,Boston,Celtics,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-26,7:00PM,110,NOP,New Orleans,Pelicans,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-26,9:30PM,93,CHA,Charlotte,Hornets,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-02-27,7:00PM,81,TOR,Toronto,Raptors,83,NYK,New York,Knicks,Madison Square Garden
+,2017-02-27,7:00PM,101,GSW,Golden State,Warriors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-02-27,7:00PM,90,MIL,Milwaukee,Bucks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-02-27,7:30PM,91,ATL,Atlanta,Hawks,82,BOS,Boston,Celtics,TD Garden
+,2017-02-27,8:30PM,92,MIA,Miami,Heat,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-02-27,9:30PM,87,IND,Indiana,Pacers,109,HOU,Houston,Rockets,Toyota Center
+,2017-02-27,10:30PM,100,MIN,Minnesota,Timberwolves,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-02-28,7:00PM,101,GSW,Golden State,Warriors,94,WAS,Washington,Wizards,Verizon Center
+,2017-02-28,7:30PM,97,POR,Portland,Trail Blazers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-02-28,8:00PM,99,DEN,Denver,Nuggets,89,CHI,Chicago,Bulls,United Center
+,2017-02-28,8:00PM,104,PHX,Phoenix,Suns,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-02-28,8:00PM,98,UTA,Utah,Jazz,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-02-28,10:30PM,93,CHA,Charlotte,Hornets,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-01,7:00PM,83,NYK,New York,Knicks,95,ORL,Orlando,Magic,Amway Center
+,2017-03-01,7:30PM,94,WAS,Washington,Wizards,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-01,7:30PM,108,DAL,Dallas,Mavericks,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-01,7:30PM,85,PHI,Philadelphia,76ers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-01,8:00PM,86,CLE,Cleveland,Cavaliers,82,BOS,Boston,Celtics,TD Garden
+,2017-03-01,8:00PM,99,DEN,Denver,Nuggets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-01,8:00PM,88,DET,Detroit,Pistons,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-01,8:30PM,87,IND,Indiana,Pacers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-01,9:00PM,100,MIN,Minnesota,Timberwolves,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-01,10:30PM,109,HOU,Houston,Rockets,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-01,10:30PM,84,BRO,Brooklyn,Nets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-02,8:00PM,101,GSW,Golden State,Warriors,89,CHI,Chicago,Bulls,United Center
+,2017-03-02,9:00PM,93,CHA,Charlotte,Hornets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-02,10:30PM,96,OKL,Oklahoma City,Thunder,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-03,7:00PM,83,NYK,New York,Knicks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-03,7:00PM,81,TOR,Toronto,Raptors,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-03,7:00PM,92,MIA,Miami,Heat,95,ORL,Orlando,Magic,Amway Center
+,2017-03-03,7:00PM,86,CLE,Cleveland,Cavaliers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-03,8:00PM,102,LAC,Los Angeles,Clippers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-03,8:30PM,107,MEM,Memphis,Grizzlies,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-03,9:00PM,84,BRO,Brooklyn,Nets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-03,9:00PM,96,OKL,Oklahoma City,Thunder,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-03,9:30PM,106,SAS,San Antonio,Spurs,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-03,10:30PM,82,BOS,Boston,Celtics,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-04,6:00PM,88,DET,Detroit,Pistons,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-04,8:00PM,81,TOR,Toronto,Raptors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-04,8:00PM,86,CLE,Cleveland,Cavaliers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-04,8:30PM,102,LAC,Los Angeles,Clippers,89,CHI,Chicago,Bulls,United Center
+,2017-03-04,9:00PM,93,CHA,Charlotte,Hornets,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-04,9:00PM,107,MEM,Memphis,Grizzlies,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-04,9:00PM,100,MIN,Minnesota,Timberwolves,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-04,10:00PM,84,BRO,Brooklyn,Nets,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-05,1:00PM,87,IND,Indiana,Pacers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-05,3:30PM,101,GSW,Golden State,Warriors,83,NYK,New York,Knicks,Madison Square Garden
+,2017-03-05,5:00PM,82,BOS,Boston,Celtics,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-05,5:00PM,95,ORL,Orlando,Magic,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-05,6:00PM,98,UTA,Utah,Jazz,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-05,8:30PM,96,OKL,Oklahoma City,Thunder,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-05,9:30PM,110,NOP,New Orleans,Pelicans,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-06,7:00PM,90,MIL,Milwaukee,Bucks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-06,7:00PM,83,NYK,New York,Knicks,95,ORL,Orlando,Magic,Amway Center
+,2017-03-06,7:00PM,92,MIA,Miami,Heat,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-03-06,7:30PM,101,GSW,Golden State,Warriors,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-06,7:30PM,89,CHI,Chicago,Bulls,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-06,8:00PM,84,BRO,Brooklyn,Nets,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-06,8:00PM,87,IND,Indiana,Pacers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-06,8:30PM,109,HOU,Houston,Rockets,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-06,9:00PM,103,SAC,Sacramento,Kings,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-06,9:00PM,110,NOP,New Orleans,Pelicans,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-06,10:30PM,82,BOS,Boston,Celtics,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-07,8:00PM,97,POR,Portland,Trail Blazers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-07,8:30PM,105,LAL,Los Angeles,Lakers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-07,9:00PM,94,WAS,Washington,Wizards,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-08,7:00PM,89,CHI,Chicago,Bulls,95,ORL,Orlando,Magic,Amway Center
+,2017-03-08,7:30PM,84,BRO,Brooklyn,Nets,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-08,7:30PM,93,CHA,Charlotte,Hornets,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-08,8:00PM,83,NYK,New York,Knicks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-08,8:00PM,81,TOR,Toronto,Raptors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-08,8:00PM,98,UTA,Utah,Jazz,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-08,8:00PM,102,LAC,Los Angeles,Clippers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-03-08,8:00PM,88,DET,Detroit,Pistons,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-08,8:30PM,103,SAC,Sacramento,Kings,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-08,9:00PM,94,WAS,Washington,Wizards,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-08,10:30PM,82,BOS,Boston,Celtics,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-09,7:30PM,86,CLE,Cleveland,Cavaliers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-09,8:00PM,102,LAC,Los Angeles,Clippers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-09,8:00PM,106,SAS,San Antonio,Spurs,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-09,10:00PM,85,PHI,Philadelphia,76ers,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-09,10:30PM,105,LAL,Los Angeles,Lakers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-10,7:00PM,95,ORL,Orlando,Magic,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-10,8:00PM,109,HOU,Houston,Rockets,89,CHI,Chicago,Bulls,United Center
+,2017-03-10,8:00PM,87,IND,Indiana,Pacers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-10,8:00PM,101,GSW,Golden State,Warriors,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-03-10,8:00PM,81,TOR,Toronto,Raptors,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-10,9:00PM,82,BOS,Boston,Celtics,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-10,9:00PM,84,BRO,Brooklyn,Nets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-10,10:30PM,94,WAS,Washington,Wizards,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-11,3:00PM,98,UTA,Utah,Jazz,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-11,3:30PM,85,PHI,Philadelphia,76ers,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-11,5:00PM,83,NYK,New York,Knicks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-11,7:00PM,110,NOP,New Orleans,Pelicans,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-11,7:00PM,86,CLE,Cleveland,Cavaliers,95,ORL,Orlando,Magic,Amway Center
+,2017-03-11,8:00PM,100,MIN,Minnesota,Timberwolves,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-11,8:00PM,81,TOR,Toronto,Raptors,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-11,8:30PM,101,GSW,Golden State,Warriors,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-11,9:00PM,91,ATL,Atlanta,Hawks,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-11,9:00PM,104,PHX,Phoenix,Suns,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-11,10:00PM,94,WAS,Washington,Wizards,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-11,10:30PM,99,DEN,Denver,Nuggets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-12,3:30PM,89,CHI,Chicago,Bulls,82,BOS,Boston,Celtics,TD Garden
+,2017-03-12,6:00PM,83,NYK,New York,Knicks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-12,6:00PM,92,MIA,Miami,Heat,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-12,9:00PM,97,POR,Portland,Trail Blazers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-12,9:00PM,86,CLE,Cleveland,Cavaliers,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-12,9:30PM,85,PHI,Philadelphia,76ers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-13,7:00PM,89,CHI,Chicago,Bulls,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-13,7:30PM,108,DAL,Dallas,Mavericks,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-13,8:00PM,90,MIL,Milwaukee,Bucks,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-13,8:00PM,91,ATL,Atlanta,Hawks,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-13,8:00PM,94,WAS,Washington,Wizards,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-03-13,9:00PM,102,LAC,Los Angeles,Clippers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-13,10:30PM,95,ORL,Orlando,Magic,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-13,10:30PM,105,LAL,Los Angeles,Lakers,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-14,7:00PM,88,DET,Detroit,Pistons,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-03-14,7:30PM,96,OKL,Oklahoma City,Thunder,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-14,7:30PM,87,IND,Indiana,Pacers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-03-14,8:00PM,97,POR,Portland,Trail Blazers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-14,10:30PM,85,PHI,Philadelphia,76ers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-15,7:00PM,108,DAL,Dallas,Mavericks,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-15,7:00PM,93,CHA,Charlotte,Hornets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-15,7:30PM,100,MIN,Minnesota,Timberwolves,82,BOS,Boston,Celtics,TD Garden
+,2017-03-15,7:30PM,110,NOP,New Orleans,Pelicans,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-15,7:30PM,98,UTA,Utah,Jazz,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-15,8:00PM,107,MEM,Memphis,Grizzlies,89,CHI,Chicago,Bulls,United Center
+,2017-03-15,8:00PM,105,LAL,Los Angeles,Lakers,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-15,8:00PM,97,POR,Portland,Trail Blazers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-15,10:00PM,103,SAC,Sacramento,Kings,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-15,10:30PM,90,MIL,Milwaukee,Bucks,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-16,7:00PM,98,UTA,Utah,Jazz,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-03-16,7:00PM,96,OKL,Oklahoma City,Thunder,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-16,7:30PM,84,BRO,Brooklyn,Nets,83,NYK,New York,Knicks,Madison Square Garden
+,2017-03-16,7:30PM,107,MEM,Memphis,Grizzlies,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-16,9:00PM,102,LAC,Los Angeles,Clippers,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-16,10:30PM,95,ORL,Orlando,Magic,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-17,7:00PM,108,DAL,Dallas,Mavericks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-17,7:00PM,89,CHI,Chicago,Bulls,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-17,7:30PM,82,BOS,Boston,Celtics,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-17,7:30PM,81,TOR,Toronto,Raptors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-17,8:00PM,109,HOU,Houston,Rockets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-17,8:00PM,100,MIN,Minnesota,Timberwolves,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-17,9:00PM,95,ORL,Orlando,Magic,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-17,10:30PM,90,MIL,Milwaukee,Bucks,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-18,3:00PM,103,SAC,Sacramento,Kings,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-18,6:00PM,97,POR,Portland,Trail Blazers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-18,7:00PM,94,WAS,Washington,Wizards,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-18,8:30PM,86,CLE,Cleveland,Cavaliers,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-18,9:00PM,98,UTA,Utah,Jazz,89,CHI,Chicago,Bulls,United Center
+,2017-03-18,9:00PM,106,SAS,San Antonio,Spurs,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-18,9:30PM,109,HOU,Houston,Rockets,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-18,10:30PM,90,MIL,Milwaukee,Bucks,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-19,12:00PM,108,DAL,Dallas,Mavericks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-19,1:00PM,82,BOS,Boston,Celtics,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-19,4:30PM,104,PHX,Phoenix,Suns,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-19,6:00PM,100,MIN,Minnesota,Timberwolves,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-19,6:00PM,87,IND,Indiana,Pacers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-19,6:00PM,97,POR,Portland,Trail Blazers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-19,7:00PM,103,SAC,Sacramento,Kings,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-19,9:30PM,86,CLE,Cleveland,Cavaliers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-20,7:00PM,91,ATL,Atlanta,Hawks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-20,7:00PM,85,PHI,Philadelphia,76ers,95,ORL,Orlando,Magic,Amway Center
+,2017-03-20,7:00PM,98,UTA,Utah,Jazz,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-20,7:30PM,94,WAS,Washington,Wizards,82,BOS,Boston,Celtics,TD Garden
+,2017-03-20,8:00PM,99,DEN,Denver,Nuggets,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-20,8:00PM,101,GSW,Golden State,Warriors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-20,10:30PM,83,NYK,New York,Knicks,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-21,7:00PM,89,CHI,Chicago,Bulls,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-21,7:30PM,88,DET,Detroit,Pistons,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-21,7:30PM,104,PHX,Phoenix,Suns,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-21,8:00PM,107,MEM,Memphis,Grizzlies,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-21,8:30PM,101,GSW,Golden State,Warriors,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-21,9:30PM,106,SAS,San Antonio,Spurs,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-03-21,10:00PM,90,MIL,Milwaukee,Bucks,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-21,10:30PM,102,LAC,Los Angeles,Clippers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-22,7:00PM,93,CHA,Charlotte,Hornets,95,ORL,Orlando,Magic,Amway Center
+,2017-03-22,7:30PM,87,IND,Indiana,Pacers,82,BOS,Boston,Celtics,TD Garden
+,2017-03-22,8:00PM,88,DET,Detroit,Pistons,89,CHI,Chicago,Bulls,United Center
+,2017-03-22,8:00PM,85,PHI,Philadelphia,76ers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-22,8:00PM,91,ATL,Atlanta,Hawks,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-22,9:00PM,86,CLE,Cleveland,Cavaliers,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-22,10:30PM,90,MIL,Milwaukee,Bucks,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-22,10:30PM,83,NYK,New York,Knicks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-23,7:30PM,104,PHX,Phoenix,Suns,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-23,7:30PM,81,TOR,Toronto,Raptors,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-23,8:30PM,102,LAC,Los Angeles,Clippers,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-23,8:30PM,107,MEM,Memphis,Grizzlies,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-23,10:00PM,83,NYK,New York,Knicks,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-24,7:00PM,84,BRO,Brooklyn,Nets,94,WAS,Washington,Wizards,Verizon Center
+,2017-03-24,7:00PM,86,CLE,Cleveland,Cavaliers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-24,7:00PM,88,DET,Detroit,Pistons,95,ORL,Orlando,Magic,Amway Center
+,2017-03-24,7:00PM,99,DEN,Denver,Nuggets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-24,7:30PM,104,PHX,Phoenix,Suns,82,BOS,Boston,Celtics,TD Garden
+,2017-03-24,8:00PM,85,PHI,Philadelphia,76ers,89,CHI,Chicago,Bulls,United Center
+,2017-03-24,8:00PM,91,ATL,Atlanta,Hawks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-24,8:00PM,110,NOP,New Orleans,Pelicans,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-24,10:30PM,100,MIN,Minnesota,Timberwolves,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-24,10:30PM,103,SAC,Sacramento,Kings,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-25,3:30PM,98,UTA,Utah,Jazz,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-25,7:30PM,94,WAS,Washington,Wizards,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-03-25,8:30PM,81,TOR,Toronto,Raptors,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-25,8:30PM,83,NYK,New York,Knicks,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-25,10:00PM,100,MIN,Minnesota,Timberwolves,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-26,1:00PM,104,PHX,Phoenix,Suns,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-26,1:00PM,84,BRO,Brooklyn,Nets,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-26,3:30PM,103,SAC,Sacramento,Kings,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-26,3:30PM,89,CHI,Chicago,Bulls,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-26,3:30PM,96,OKL,Oklahoma City,Thunder,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-26,6:00PM,85,PHI,Philadelphia,76ers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-26,6:00PM,92,MIA,Miami,Heat,82,BOS,Boston,Celtics,TD Garden
+,2017-03-26,8:00PM,107,MEM,Memphis,Grizzlies,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-03-26,8:00PM,110,NOP,New Orleans,Pelicans,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-03-26,9:30PM,97,POR,Portland,Trail Blazers,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-27,7:30PM,95,ORL,Orlando,Magic,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-27,7:30PM,88,DET,Detroit,Pistons,83,NYK,New York,Knicks,Madison Square Garden
+,2017-03-27,8:00PM,86,CLE,Cleveland,Cavaliers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-27,8:30PM,96,OKL,Oklahoma City,Thunder,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-03-27,10:30PM,107,MEM,Memphis,Grizzlies,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-27,10:30PM,110,NOP,New Orleans,Pelicans,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-28,7:00PM,90,MIL,Milwaukee,Bucks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-28,7:00PM,100,MIN,Minnesota,Timberwolves,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-03-28,7:30PM,85,PHI,Philadelphia,76ers,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-03-28,7:30PM,104,PHX,Phoenix,Suns,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-03-28,7:30PM,92,MIA,Miami,Heat,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-28,8:00PM,101,GSW,Golden State,Warriors,109,HOU,Houston,Rockets,Toyota Center
+,2017-03-28,10:00PM,99,DEN,Denver,Nuggets,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-28,10:30PM,94,WAS,Washington,Wizards,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-03-29,7:00PM,91,ATL,Atlanta,Hawks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-03-29,7:00PM,96,OKL,Oklahoma City,Thunder,95,ORL,Orlando,Magic,Amway Center
+,2017-03-29,7:30PM,90,MIL,Milwaukee,Bucks,82,BOS,Boston,Celtics,TD Garden
+,2017-03-29,7:30PM,93,CHA,Charlotte,Hornets,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-29,7:30PM,92,MIA,Miami,Heat,83,NYK,New York,Knicks,Madison Square Garden
+,2017-03-29,8:00PM,87,IND,Indiana,Pacers,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-29,8:00PM,108,DAL,Dallas,Mavericks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-29,9:30PM,101,GSW,Golden State,Warriors,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-03-29,10:30PM,94,WAS,Washington,Wizards,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-03-29,10:30PM,98,UTA,Utah,Jazz,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-03-30,7:30PM,84,BRO,Brooklyn,Nets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-03-30,8:00PM,86,CLE,Cleveland,Cavaliers,89,CHI,Chicago,Bulls,United Center
+,2017-03-30,8:00PM,105,LAL,Los Angeles,Lakers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-03-30,10:00PM,102,LAC,Los Angeles,Clippers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-03-30,10:30PM,109,HOU,Houston,Rockets,97,POR,Portland,Trail Blazers,Moda Center
+,2017-03-31,7:00PM,87,IND,Indiana,Pacers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-03-31,7:00PM,99,DEN,Denver,Nuggets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-03-31,7:30PM,85,PHI,Philadelphia,76ers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-03-31,7:30PM,95,ORL,Orlando,Magic,82,BOS,Boston,Celtics,TD Garden
+,2017-03-31,8:00PM,88,DET,Detroit,Pistons,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-03-31,8:00PM,108,DAL,Dallas,Mavericks,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-03-31,8:00PM,103,SAC,Sacramento,Kings,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-03-31,8:00PM,83,NYK,New York,Knicks,92,MIA,Miami,Heat,American Airlines Arena
+,2017-03-31,8:00PM,106,SAS,San Antonio,Spurs,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-03-31,9:00PM,94,WAS,Washington,Wizards,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-03-31,10:30PM,109,HOU,Houston,Rockets,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-01,3:30PM,105,LAL,Los Angeles,Lakers,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-04-01,5:00PM,91,ATL,Atlanta,Hawks,89,CHI,Chicago,Bulls,United Center
+,2017-04-01,6:00PM,95,ORL,Orlando,Magic,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-04-01,8:00PM,103,SAC,Sacramento,Kings,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-04-01,10:00PM,104,PHX,Phoenix,Suns,97,POR,Portland,Trail Blazers,Moda Center
+,2017-04-02,1:00PM,82,BOS,Boston,Celtics,83,NYK,New York,Knicks,Madison Square Garden
+,2017-04-02,3:00PM,93,CHA,Charlotte,Hornets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-04-02,3:30PM,107,MEM,Memphis,Grizzlies,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-04-02,3:30PM,108,DAL,Dallas,Mavericks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-04-02,3:30PM,98,UTA,Utah,Jazz,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-04-02,6:00PM,89,CHI,Chicago,Bulls,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-04-02,6:00PM,85,PHI,Philadelphia,76ers,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-04-02,6:00PM,91,ATL,Atlanta,Hawks,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-04-02,6:00PM,99,DEN,Denver,Nuggets,92,MIA,Miami,Heat,American Airlines Arena
+,2017-04-02,6:00PM,87,IND,Indiana,Pacers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-04-02,8:00PM,94,WAS,Washington,Wizards,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-02,9:00PM,109,HOU,Houston,Rockets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-04-03,7:00PM,97,POR,Portland,Trail Blazers,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-04-04,7:00PM,84,BRO,Brooklyn,Nets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-04-04,7:00PM,93,CHA,Charlotte,Hornets,94,WAS,Washington,Wizards,Verizon Center
+,2017-04-04,7:00PM,95,ORL,Orlando,Magic,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-04-04,7:00PM,81,TOR,Toronto,Raptors,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-04-04,8:00PM,99,DEN,Denver,Nuggets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+,2017-04-04,8:00PM,90,MIL,Milwaukee,Bucks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-04-04,8:00PM,89,CHI,Chicago,Bulls,83,NYK,New York,Knicks,Madison Square Garden
+,2017-04-04,8:30PM,107,MEM,Memphis,Grizzlies,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-04-04,9:00PM,97,POR,Portland,Trail Blazers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-04-04,10:30PM,100,MIN,Minnesota,Timberwolves,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-04,10:30PM,108,DAL,Dallas,Mavericks,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-04-05,7:00PM,92,MIA,Miami,Heat,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-04-05,7:30PM,81,TOR,Toronto,Raptors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-04-05,8:00PM,96,OKL,Oklahoma City,Thunder,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-04-05,8:00PM,99,DEN,Denver,Nuggets,109,HOU,Houston,Rockets,Toyota Center
+,2017-04-05,8:00PM,86,CLE,Cleveland,Cavaliers,82,BOS,Boston,Celtics,TD Garden
+,2017-04-05,8:30PM,105,LAL,Los Angeles,Lakers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-04-05,10:00PM,101,GSW,Golden State,Warriors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-04-05,10:30PM,108,DAL,Dallas,Mavericks,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-04-06,7:00PM,89,CHI,Chicago,Bulls,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-04-06,7:00PM,84,BRO,Brooklyn,Nets,95,ORL,Orlando,Magic,Amway Center
+,2017-04-06,7:00PM,90,MIL,Milwaukee,Bucks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-04-06,7:30PM,94,WAS,Washington,Wizards,83,NYK,New York,Knicks,Madison Square Garden
+,2017-04-06,8:00PM,82,BOS,Boston,Celtics,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-04-06,10:30PM,100,MIN,Minnesota,Timberwolves,97,POR,Portland,Trail Blazers,Moda Center
+,2017-04-07,7:30PM,91,ATL,Atlanta,Hawks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-04-07,7:30PM,92,MIA,Miami,Heat,81,TOR,Toronto,Raptors,Air Canada Centre
+,2017-04-07,8:00PM,83,NYK,New York,Knicks,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-04-07,8:00PM,88,DET,Detroit,Pistons,109,HOU,Houston,Rockets,Toyota Center
+,2017-04-07,8:30PM,106,SAS,San Antonio,Spurs,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-04-07,9:00PM,110,NOP,New Orleans,Pelicans,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-04-07,9:00PM,100,MIN,Minnesota,Timberwolves,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-04-07,10:00PM,96,OKL,Oklahoma City,Thunder,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-04-07,10:30PM,103,SAC,Sacramento,Kings,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-04-08,5:00PM,89,CHI,Chicago,Bulls,84,BRO,Brooklyn,Nets,Barclays Center
+,2017-04-08,6:00PM,82,BOS,Boston,Celtics,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+,2017-04-08,6:00PM,87,IND,Indiana,Pacers,95,ORL,Orlando,Magic,Amway Center
+,2017-04-08,7:00PM,90,MIL,Milwaukee,Bucks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-04-08,7:00PM,92,MIA,Miami,Heat,94,WAS,Washington,Wizards,Verizon Center
+,2017-04-08,8:30PM,102,LAC,Los Angeles,Clippers,106,SAS,San Antonio,Spurs,AT&T Center
+,2017-04-08,10:00PM,98,UTA,Utah,Jazz,97,POR,Portland,Trail Blazers,Moda Center
+,2017-04-08,10:30PM,110,NOP,New Orleans,Pelicans,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-09,12:00PM,81,TOR,Toronto,Raptors,83,NYK,New York,Knicks,Madison Square Garden
+,2017-04-09,3:30PM,86,CLE,Cleveland,Cavaliers,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-04-09,5:00PM,96,OKL,Oklahoma City,Thunder,99,DEN,Denver,Nuggets,Pepsi Center
+,2017-04-09,6:00PM,108,DAL,Dallas,Mavericks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+,2017-04-09,6:00PM,109,HOU,Houston,Rockets,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-04-09,6:00PM,88,DET,Detroit,Pistons,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-04-09,9:30PM,100,MIN,Minnesota,Timberwolves,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-04-10,7:00PM,87,IND,Indiana,Pacers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+,2017-04-10,7:30PM,84,BRO,Brooklyn,Nets,82,BOS,Boston,Celtics,TD Garden
+,2017-04-10,7:30PM,86,CLE,Cleveland,Cavaliers,92,MIA,Miami,Heat,American Airlines Arena
+,2017-04-10,8:00PM,95,ORL,Orlando,Magic,89,CHI,Chicago,Bulls,United Center
+,2017-04-10,8:00PM,93,CHA,Charlotte,Hornets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+,2017-04-10,8:00PM,94,WAS,Washington,Wizards,88,DET,Detroit,Pistons,Palace of Auburn Hills
+,2017-04-10,10:00PM,106,SAS,San Antonio,Spurs,97,POR,Portland,Trail Blazers,Moda Center
+,2017-04-10,10:30PM,109,HOU,Houston,Rockets,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-04-10,10:30PM,98,UTA,Utah,Jazz,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-11,7:30PM,93,CHA,Charlotte,Hornets,91,ATL,Atlanta,Hawks,Philips Arena
+,2017-04-11,8:00PM,96,OKL,Oklahoma City,Thunder,100,MIN,Minnesota,Timberwolves,Target Center
+,2017-04-11,8:30PM,99,DEN,Denver,Nuggets,108,DAL,Dallas,Mavericks,American Airlines Center
+,2017-04-11,10:30PM,110,NOP,New Orleans,Pelicans,105,LAL,Los Angeles,Lakers,Staples Center
+,2017-04-11,10:30PM,104,PHX,Phoenix,Suns,103,SAC,Sacramento,Kings,Sleep Train Arena
+,2017-04-12,8:00PM,88,DET,Detroit,Pistons,95,ORL,Orlando,Magic,Amway Center
+,2017-04-12,8:00PM,81,TOR,Toronto,Raptors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+,2017-04-12,8:00PM,90,MIL,Milwaukee,Bucks,82,BOS,Boston,Celtics,TD Garden
+,2017-04-12,8:00PM,85,PHI,Philadelphia,76ers,83,NYK,New York,Knicks,Madison Square Garden
+,2017-04-12,8:00PM,94,WAS,Washington,Wizards,92,MIA,Miami,Heat,American Airlines Arena
+,2017-04-12,8:00PM,84,BRO,Brooklyn,Nets,89,CHI,Chicago,Bulls,United Center
+,2017-04-12,8:00PM,108,DAL,Dallas,Mavericks,107,MEM,Memphis,Grizzlies,FedEx Forum
+,2017-04-12,8:00PM,100,MIN,Minnesota,Timberwolves,109,HOU,Houston,Rockets,Toyota Center
+,2017-04-12,8:00PM,99,DEN,Denver,Nuggets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+,2017-04-12,8:00PM,91,ATL,Atlanta,Hawks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+,2017-04-12,9:00PM,106,SAS,San Antonio,Spurs,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+,2017-04-12,10:30PM,103,SAC,Sacramento,Kings,102,LAC,Los Angeles,Clippers,Staples Center
+,2017-04-12,10:30PM,105,LAL,Los Angeles,Lakers,101,GSW,Golden State,Warriors,Oracle Arena
+,2017-04-12,10:30PM,110,NOP,New Orleans,Pelicans,97,POR,Portland,Trail Blazers,Moda Center
