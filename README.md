@@ -10,7 +10,7 @@ But avid NBA fans know these characteristics out of instinct after watching the 
 
 ## How It Works
 
-Using datasets from Kaggle (formatted with Pandas), we can use Matplotib to illustrate our data analysis. This dataset includes every shot taken in the 2016-2017 Regular Season so any player who played a game during this season can be analyzed. By incorporating machine learning through Python's Scikit-Learn (using a Decision Tree Classifier) we can also simulate a player's shooting from every position on the court. 
+Using datasets from Kaggle (formatted with Pandas), we can use Matplotlib to illustrate our data analysis. This dataset includes every shot taken in the 2016-2017 Regular Season so any player who played a game during this season can be analyzed. By incorporating machine learning through Python's Scikit-Learn (using a Decision Tree Classifier) we can also simulate a player's shooting from every position on the court. 
 
 Let's take a look!
 
