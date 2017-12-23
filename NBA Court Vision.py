@@ -16,9 +16,9 @@ start_time = time.time()
 
 
 curr_player = "Kevin Durant"
-mode = 1
+mode = 4
 acc = 20
-total_spots = 45
+total_spots = 25
 
 #mode
 # 1 - Raw Data with Summary
@@ -268,7 +268,7 @@ for i in summ_spots:
 img = plt.imread('court.png')
 
 plt.figure(num = curr_player)
-plt.title(curr_player + " Shot Analysis")
+plt.title(curr_player + " Shot Analysis \n 2016-2017 Regular Season")
 plt.xlabel('')
 plt.ylabel('')
 if mode == 4:
