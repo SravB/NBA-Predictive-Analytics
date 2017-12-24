@@ -60,4 +60,4 @@ Overall, our predictive models can predict NBA players' shooting habits with a h
 
 Try it out with your favourite NBA players!
 
-![Screenshot](all-stars.jpg)
+![Screenshot](all_stars.jpg)
