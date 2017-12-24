@@ -28,11 +28,17 @@ However, the black dots are a bit hard to see because of the green and red dots,
 
 ![Screenshot](Stephen_Curry_Shots2.jpg)
 
+So how did we do? Our plot says that Curry is most likely to shoot from very close range (at layup distance) or from the 3-point range. Any NBA fans can verify the accuracy of this prediction since Curry is known for his 3-point shooting and his ability to rush past defenders for layups.
+
+For our next analysis let's change things up and take a look at another player - Curry's teammate, Kevin Durant.
 
 
 
 ## Kevin Durant Shooting Analysis
 
 ![Screenshot](Kevin_Durant_Shots.jpg)
+
+In this analysis we are incorporating machine learning by using a Decision Tree to simulate Kevin Durant's shooting throughout the court. With this analysis we have a more uniform distribution for our analysis so we can predict how Durant will shoot based on his past shooting habits. In this plot, the green dots represent scoring shots and the red dots represent missed shots. 
+
 
 ![Screenshot](Kevin_Durant_Shots2.jpg)
