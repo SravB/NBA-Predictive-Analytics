@@ -12,7 +12,7 @@ But avid NBA fans know these characteristics out of instinct after watching the 
 
 Using datasets from Kaggle (formatted with Pandas), we can use Matplotlib to illustrate our data analysis. This dataset includes every shot taken in the 2016-2017 Regular Season so any player who played a game during this season can be analyzed. By incorporating machine learning through Python's Scikit-Learn (using a Decision Tree Classifier) we can also simulate a player's shooting from every position on the court. 
 
-Let's take a look!
+I incorporated multiple methods of analyzing shooting habits so let's take a look!
 
 
 
@@ -20,9 +20,14 @@ Let's take a look!
 
 ![Screenshot](Stephen_Curry_Shots.jpg)
 
+Let's start off with the two time MVP from the Golden State Warriors, Stephen Curry. In this plot, the green dots represent scoring shots while the red dots represent missed shots. The black dots represent spots that Curry is most likely to shoot from. The size of the dots represent the relative probability of Curry shooting from that position and the darkness of the dot illustrates his shot accuracy from that spot (with darker shades representing a higher accuracy).
+
+However, the black dots are a bit hard to see because of the green and red dots, so let's simplify the plot.
+
 
 
 ![Screenshot](Stephen_Curry_Shots2.jpg)
+
 
 
 
