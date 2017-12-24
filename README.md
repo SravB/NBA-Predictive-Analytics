@@ -59,3 +59,5 @@ From the plot, we can see that Durant is above average in the majority of the co
 Overall, our predictive models can predict NBA players' shooting habits with a high degree of effectiveness as seen from the analysis on Curry and Durant. We can determine exactly which areas a player is above average at shooting and which they are below. We can also predict where they are most likely to shoot from and their accuracy from these positions. With this data, NBA coaches can plan defense strategies with much higher precision. 
 
 Try it out with your favourite NBA players!
+
+![Screenshot](all_stars.jpg)
