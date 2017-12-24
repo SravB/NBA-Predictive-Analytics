@@ -50,4 +50,12 @@ But we can take this one step further, let's compare Kevin Durant's shooting to 
 
 Similar to how we simulated Kevin Durant's shooting with machine learning, we can use the data for all NBA players in the 2016-2017 Regular Season to find the shooting habits of the average NBA player. In this plot, green dots represent shots that Durant made but the NBA average player missed (meaning Durant is above average shooting at this positions). In contrast, the red dots represent shots that Durant missed but the average player scored (meaning Durant is below average at these spots). Additionally, the yellow dots represent neutral areas where both Durant and the average player scored or missed. 
 
-From the plot, we can see that 
+From the plot, we can see that Durant is above average in the majority of the court. He dominates shooting throughout the key and around the 3-point range - once again aligning with his known game style. 
+
+
+
+## How Did We Do?
+
+Overall, our predictive models can predict NBA players' shooting habits with a high degree of effectiveness as seen from the analysis on Curry and Durant. We can determine exactly which areas a player is above average at shooting and which they are below. We can also predict where they are most likely to shoot from and their accuracy from these positions. With this data, NBA coaches can plan defense strategies with much higher precision. 
+
+Try it out with your favourite NBA players!
