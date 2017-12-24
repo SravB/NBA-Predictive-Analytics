@@ -265,7 +265,7 @@ for i in summ_spots:
 
 
 
-img = plt.imread('court.png')
+img = plt.imread('images/court.png')
 
 plt.figure(num = curr_player)
 plt.title(curr_player + " Shot Analysis \n 2016-2017 Regular Season")
