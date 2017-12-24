@@ -40,5 +40,14 @@ For our next analysis let's change things up and take a look at another player -
 
 In this analysis we are incorporating machine learning by using a Decision Tree to simulate Kevin Durant's shooting throughout the court. With this analysis we have a more uniform distribution for our analysis so we can predict how Durant will shoot based on his past shooting habits. In this plot, the green dots represent scoring shots and the red dots represent missed shots. 
 
+From this analysis we can determine that Durant is more dominant on the right side of the court (which is the case for right-handed players). He also is predicted to score with high consistency throughout the key and around the 3-point perimeter - another prediction which is confirmed by his known playing style.  
+
+But we can take this one step further, let's compare Kevin Durant's shooting to the average NBA player.
+
+
 
 ![Screenshot](Kevin_Durant_Shots2.jpg)
+
+Similar to how we simulated Kevin Durant's shooting with machine learning, we can use the data for all NBA players in the 2016-2017 Regular Season to find the shooting habits of the average NBA player. In this plot, green dots represent shots that Durant made but the NBA average player missed (meaning Durant is above average shooting at this positions). In contrast, the red dots represent shots that Durant missed but the average player scored (meaning Durant is below average at these spots). Additionally, the yellow dots represent neutral areas where both Durant and the average player scored or missed. 
+
+From the plot, we can see that 
