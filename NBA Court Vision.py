@@ -15,80 +15,93 @@ import time
 start_time = time.time()
 
 
-curr_player = "Kevin Durant"
-mode = 4
-acc = 20
-total_spots = 25
-
-#mode
-# 1 - Raw Data with Summary
-# 2 - Summary
-# 3 - Shooting Hotspots
-# 4 - Shooting Compared to Standard
-
 teams = ['ATL','BOS','BRO','CHA','CHI','CLE',
          'DAL','DEN','DET','GSW','HOU','IND',
          'LAC','LAL','MEM','MIA','MIL','MIN',
          'NOP','NYK','OKL','ORL','PHI','PHX',
          'POR','SAC','SAS','TOR','UTA','WAS']
 
-#features
-# - location x
-# - location y
-# - player
-# - shot outcome (0 or 1)
+found = False
 
-x = []
-y = []
-player = []
-outcome = []
-change = []
-# 1 means on right court
-# 0 means on left court
+while not found:
     
-for m in teams:
-    #getting data
-    df = pd.read_csv('datasets/shot log ' + m + '.csv', parse_dates = True)
-    
+    print("Enter Player Name: ")
+    curr_player = input()
 
-    for i in df[['location x']]:
-        for j in df[i]:
-            if math.isnan(j):
-                x_temp = 200
-            else:
-                x_temp = j
+    #features
+    # - location x
+    # - location y
+    # - player
+    # - shot outcome (0 or 1)
 
-            if x_temp < 470:
-                x.append(-1*x_temp + 470)
-                change.append(0)
-            else:
-                x.append(x_temp - 470)
-                change.append(1)
+    x = []
+    y = []
+    player = []
+    outcome = []
+    change = []
+    # 1 means on right court
+    # 0 means on left court
+
+    for m in teams:
+        #getting data
+        df = pd.read_csv('datasets/shot log ' + m + '.csv', parse_dates = True)
+        
+
+        for i in df[['location x']]:
+            for j in df[i]:
+                if math.isnan(j):
+                    x_temp = 200
+                else:
+                    x_temp = j
+
+                if x_temp < 470:
+                    x.append(-1*x_temp + 470)
+                    change.append(0)
+                else:
+                    x.append(x_temp - 470)
+                    change.append(1)
 
 
-    for i in df[['location y']]:
-        count = 0
-        for j in df[i]:
-            if math.isnan(j):
-                y_temp = 250
-            else:
-                y_temp = j
+        for i in df[['location y']]:
+            count = 0
+            for j in df[i]:
+                if math.isnan(j):
+                    y_temp = 250
+                else:
+                    y_temp = j
 
-            if change[count] == 0:
-                y.append(500 - y_temp)
-            else:
-                y.append(y_temp)
+                if change[count] == 0:
+                    y.append(500 - y_temp)
+                else:
+                    y.append(y_temp)
+                    
+                count += 1
                 
-            count += 1
-            
 
-    for i in df[['shoot player']]:
-        for j in df[i]:
-            player.append(j)
+        for i in df[['shoot player']]:
+            for j in df[i]:
+                if j == curr_player:
+                    found = True
+                player.append(j)
 
-    for i in df[['current shot outcome']]:
-        for j in df[i]:
-            outcome.append(j)
+        for i in df[['current shot outcome']]:
+            for j in df[i]:
+                outcome.append(j)
+
+
+
+print("\nModes")
+print("------------------------------------")
+print("1 - Raw Data with Summary")
+print("2 - Summary")
+print("3 - Shooting Hotspots")
+print("4 - Shooting Compared to Standard")
+mode = 0
+while not (mode > 0 and mode < 5):
+    print("Select Type of Analysis: ")
+    mode = int(input())
+acc = 20
+total_spots = 25
 
 
 features = []
@@ -267,7 +280,7 @@ for i in summ_spots:
 
 img = plt.imread('images/court.png')
 
-plt.figure(num = curr_player)
+fig = plt.figure(num = curr_player)
 plt.title(curr_player + " Shot Analysis \n 2016-2017 Regular Season")
 plt.xlabel('')
 plt.ylabel('')
@@ -291,6 +304,94 @@ if mode < 3:
 
 plt.imshow(img,zorder=0)
 plt.axis('off')
+
+def onclick(event):
+
+    xbasket = 423
+    ybasket = 248
+
+    dist_basket = round((((event.xdata - xbasket)**2 + (event.ydata - ybasket)**2)**0.5)/10,2)
+    print("\nDistance from Basket: " + str(dist_basket) + " feet")
+        
+    #prints info of position
+    if mode < 3:
+        
+        for i in range(len(summ_xs)):
+            
+            if ((event.xdata - summ_xs[i])**2 + (event.ydata - summ_ys[i])**2)**0.5 < 10:
+                #print(summ_xs[i], summ_ys[i])
+                print("Shot Accuracy: " + str(round(summ_shot_acc[i]*100,2)) +
+                      "% \nPercent of All Shots Taken at this Position: "
+                      + str(round(summ_shot_perc[i],2)) + "%")
+                break
+        #print(event.x, event.y, event.xdata, event.ydata)
+            
+    else:
+        
+        for i in range(len(xs_made)):
+            
+            if ((event.xdata - xs_made[i])**2 + (event.ydata - ys_made[i])**2)**0.5 < 10:
+                #print(summ_xs[i], summ_ys[i])
+                print("Shot is Projected to Score")
+                if mode == 4:
+                    if clf_standard.predict([[xs_made[i],ys_made[i]]])[0] == 1:
+                        print("Average Player would Score")
+                        print(curr_player + " is an Average Shooter at this Position")
+                        
+                    else:
+                        print("Average Player would Miss")
+                        print(curr_player + " is Above Average at this Position")
+                       
+                break
+            
+        for i in range(len(xs_missed)):
+            
+            if ((event.xdata - xs_missed[i])**2 + (event.ydata - ys_missed[i])**2)**0.5 < 10:
+                #print(summ_xs[i], summ_ys[i])
+                print("Shot is Projected to Miss")
+                if mode == 4:
+                    if clf_standard.predict([[xs_missed[i],ys_missed[i]]])[0] == 1:
+                        print("Average Player would Score")
+                        print(curr_player + " is Below Average at this Position")
+                        
+                    else:
+                        print("Average Player would Miss")
+                        print(curr_player + " is an Average Shooter at this Position")
+                break
+
+        if mode == 4:
+
+            for i in range(len(xs)):
+                if ((event.xdata - xs[i])**2 + (event.ydata - ys[i])**2)**0.5 < 10:
+
+                    
+                    if clf.predict([[xs[i],ys[i]]])[0] == 1:
+                        print("Shot is Projected to Score")
+
+                        if clf_standard.predict([[xs[i],ys[i]]])[0] == 1:
+                            print("Average Player would Score")
+                            print(curr_player + " is an Average Shooter at this Position")
+                            
+                        else:
+                            print("Average Player would Miss")
+                            print(curr_player + " is Above Average at this Position")
+                            
+                    else:
+                        print("Shot is Projected to Miss")
+                        
+                        if clf_standard.predict([[xs[i],ys[i]]])[0] == 1:
+                            print("Average Player would Score")
+                            print(curr_player + " is Below Average at this Position")
+                                
+                        else:
+                            print("Average Player would Miss")
+                            print(curr_player + " is an Average Shooter at this Position")
+                        
+                    break
+
+        
+cid = fig.canvas.mpl_connect('button_press_event', onclick)
+
 plt.show()
 
 
