@@ -26,7 +26,7 @@ found = False
 while not found:
     
     print("Enter Player Name: ")
-    curr_player = input()
+    curr_player = input().title()
 
     #features
     # - location x
@@ -80,7 +80,7 @@ while not found:
 
         for i in df[['shoot player']]:
             for j in df[i]:
-                if j == curr_player:
+                if j.title() == curr_player:
                     found = True
                 player.append(j)
 
@@ -108,7 +108,7 @@ features = []
 labels = []
 
 for i in range(len(player)):
-    if player[i] == curr_player:
+    if player[i].title() == curr_player:
         features.append([x[i],y[i]])
         if outcome[i] == "SCORED":
             labels.append(1)
@@ -263,7 +263,7 @@ for i in summ_spots:
             s_x += features[k][0]
             s_y += features[k][1]
 
-    if num_shots_made + num_shots_missed == 0:
+    if num_shots_made + num_shots_missed == 0 or round((num_shots_made + num_shots_missed)/len(features)*100,2) < 0.5:
          summ_xs.append(s_x)
          summ_ys.append(s_y)
          summ_shot_perc.append(0)      
