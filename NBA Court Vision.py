@@ -3,7 +3,7 @@
 #allowing us to simulate any player we want and analyze their scoring habits
 
 #imports
-from sklearn import tree
+from sklearn import tree, neighbors
 import math
 import pandas as pd
 import numpy as np
@@ -126,8 +126,8 @@ for i in range(len(player)):
     else:
         labels_standard.append(0)
             
-clf = tree.DecisionTreeClassifier()
-clf_standard = tree.DecisionTreeClassifier()
+clf = neighbors.KNeighborsClassifier()
+clf_standard = neighbors.KNeighborsClassifier()
 clf.fit(features, labels)
 clf_standard.fit(features_standard, labels_standard)
 
